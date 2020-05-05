@@ -1,16 +1,16 @@
-# Awesome Backlinks
+# Awesome Backlinks [![License](http://img.shields.io/badge/license-Apache-brightgreen.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.txt) [![LinkedIn](https://img.shields.io/badge/Connect-ThosPFuller-blue)](https://www.linkedin.com/in/thomasfuller/) [![Twitter](https://img.shields.io/twitter/follow/thospfuller?label=ThosPFuller&style=social)](https://twitter.com/ThosPFuller) [![GitHub](https://img.shields.io/github/followers/thospfuller?label=Follow&style=social)](https://github.com/thospfuller)
 
 A curated list of backlink, social signal opportunities, and referral traffic generation ideas.
 
 If you find this site to be useful, please star and/or follow it.
 
-# General Backlinks
+# Free Backlinks
 
-**[Create a backlink for your open-source software project here.](OPEN_BACKLINKS.md)**
+**[Create a backlink for your open-source software project here.](FREE_BACKLINKS.md)**
 
 # Ideas
-- Link page from your company website to the project
-- Link from your blog to the project
+- Add a link on a page from your company website to the project
+- Add a link on a page from your blog to the project
 - Twitter (social signal)
 - LinkedIn Company Updates - Add a URL to the project will be available for indexing (shortened links are considered redirects by Google).
 - LinkedIn Group Posts - Do NOT count as backlinks but may help to bring awareness to a project.
@@ -19,7 +19,7 @@ If you find this site to be useful, please star and/or follow it.
   * [Medium.com](https://medium.com)
   * [dev.to](https://dev.to/)
 - Answer questions on [Quora](https://www.quora.com/) and link to the project.
-- Send email to group mailing lists (project awareness, may be indexed if the mailing list is public).
+- Send email to group mailing lists (project awareness, may be indexed if the mailing list is is archived and publicly available).
 - Create a video and release it on [YouTube](https://youtube.com) and link to the project in the description.
 - Find appropriate awesome-[x] lists and add a link to your project there.
   * [Awesome Java](https://java-lang.github.io/awesome-java/)
