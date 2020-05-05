@@ -29,5 +29,8 @@ If you find this site to be useful, please star and/or follow it.
 - Find complimentary projects and add the backlink to the README in a "See Also" section or where appropriate. Note that reciprocity is likely welcomed.
 - Talk about the project in a podcast and request that the project backlink be added in the details.
 - Talk at a [meetup.com event](https://meetup.com) and request that the project backlink be added in the details.
-- Post on FaceBook
+- Post on Facebook (for referral traffic, see also [https://monitorbacklinks.com/blog/seo/facebook-backlinks](https://monitorbacklinks.com/blog/seo/facebook-backlinks) )
 - Showcase the project including the backlink on [Google My Business](https://www.google.com/business/)
+
+# See Also
+- [28 Social Media Backlinks To Increase Your Rankings In 2020](https://www.matthewwoodward.co.uk/seo/link-building/social-media-backlinks/)
