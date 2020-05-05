@@ -1,6 +1,6 @@
 # Awesome Backlinks
 
-A curated list of backlink, social signal opportunities, and ideas.
+A curated list of backlink, social signal opportunities, and referral traffic generation ideas.
 
 If you find this site to be useful, please star and/or follow it.
 
