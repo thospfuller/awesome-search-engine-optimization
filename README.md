@@ -6,7 +6,7 @@ If you find this site to be useful, please star and/or follow it.
 
 # General Backlinks
 
-[Create a backlink for your open-source software project here.](OPEN_BACKLINKS.md)
+**[Create a backlink for your open-source software project here.](OPEN_BACKLINKS.md)**
 
 # Ideas
 - Link page from your company website to the project
