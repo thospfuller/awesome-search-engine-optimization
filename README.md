@@ -18,6 +18,7 @@ If you find this site to be useful, please star and/or follow it.
 - Write an article on _____ and backlink to the project.
   * [Medium.com](https://medium.com)
   * [dev.to](https://dev.to/)
+  * [WANTED: Other sites here]
 - Answer questions on [Quora](https://www.quora.com/) and link to the project.
 - Send email to group mailing lists (project awareness, may be indexed if the mailing list is is archived and publicly available).
 - Create a video and release it on [YouTube](https://youtube.com) and link to the project in the description.
