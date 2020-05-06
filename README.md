@@ -26,6 +26,7 @@ If you find this site to be useful, please star and/or follow it.
   * [Awesome R Packages](https://github.com/qinwf/awesome-R)
   * [Awesome C#](https://github.com/uhub/awesome-c-sharp)
   * [Awesome COBOL](https://github.com/mickaelandrieu/awesome-cobol)
+  * [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - Find complimentary projects and add the backlink to the README in a "See Also" section or where appropriate. Note that reciprocity is likely welcomed.
 - Talk about the project in a podcast and request that the project backlink be added in the details.
   * [Podcasts WANTED]
