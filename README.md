@@ -37,3 +37,4 @@ If you find this site to be useful, please star and/or follow it.
 
 # See Also
 - [28 Social Media Backlinks To Increase Your Rankings In 2020](https://www.matthewwoodward.co.uk/seo/link-building/social-media-backlinks/)
+- [How to Find 50 Backlink Opportunities in Just 20 Minutes](https://neilpatel.com/blog/backlink-opportunities/)
