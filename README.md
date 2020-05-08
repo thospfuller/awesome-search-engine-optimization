@@ -1,4 +1,4 @@
-# Awesome Backlinks [![License](http://img.shields.io/badge/license-Apache-brightgreen.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.txt) [![LinkedIn](https://img.shields.io/badge/Connect-ThosPFuller-blue)](https://www.linkedin.com/in/thomasfuller/) [![Twitter](https://img.shields.io/twitter/follow/thospfuller?label=ThosPFuller&style=social)](https://twitter.com/ThosPFuller) [![GitHub](https://img.shields.io/github/followers/thospfuller?label=Follow&style=social)](https://github.com/thospfuller)
+# Awesome Backlinks [![License](http://img.shields.io/badge/license-Apache-brightgreen.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.txt) [![LinkedIn](images/linkedin_32.png)](https://www.linkedin.com/in/thomasfuller/) [![Twitter](images/twitter_32.png)](https://twitter.com/ThosPFuller) [![GitHub](images/github_32.png)](https://github.com/thospfuller)
 
 A curated list of backlink, social signal opportunities, and referral traffic generation ideas.
 
