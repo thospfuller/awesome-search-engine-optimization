@@ -4,10 +4,6 @@ A curated list of backlink, social signal opportunities, and referral traffic ge
 
 If you find this site to be useful, please star and/or follow it.
 
-# Free Backlinks
-
-**[Create a backlink for your open-source software project here.](FREE_BACKLINKS.md)**
-
 # Ideas
 - Add a link on a page from your company website to the project
 - Add a link on a page from your blog to the project
@@ -39,3 +35,4 @@ If you find this site to be useful, please star and/or follow it.
 - [28 Social Media Backlinks To Increase Your Rankings In 2020](https://www.matthewwoodward.co.uk/seo/link-building/social-media-backlinks/)
 - [How to Find 50 Backlink Opportunities in Just 20 Minutes](https://neilpatel.com/blog/backlink-opportunities/)
 - [What are Backlinks? And How to Build Them in 2020](https://backlinko.com/hub/seo/backlinks)
+- [20 SEO Link Building Methods for 2020](https://smart.linkresearchtools.com/linkthing/case-studies/link-building-techniques)
