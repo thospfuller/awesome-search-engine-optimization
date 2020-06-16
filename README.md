@@ -13,6 +13,11 @@ If you find this site to be useful, please star and/or follow it.
 - LinkedIn Personal Posts - Do NOT count as backlinks but may help to bring awareness to a project.
 - Write an article on _____ and backlink to the project.
   * [Medium.com](https://medium.com)
+    Medium publications may publish an your article if it meets their criteria. This would expand the audience size considerably, for example: 
+    - [HackerNoon.com](HackerNoon.com) has ~484k subscribers
+    - [PM Insider](https://medium.com/pminsider) has ~18k members
+    - [Startup Grind](https://medium.com/startup-grind) has ~414k members
+    - [WANTED: Other publications here]
   * [dev.to](https://dev.to/)
   * [reddit.com](https://www.reddit.com/)
   * [WANTED: Other sites here]
