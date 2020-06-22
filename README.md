@@ -1,4 +1,4 @@
-# Awesome Backlinks [![License](http://img.shields.io/badge/license-Apache-brightgreen.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.txt) [![LinkedIn](images/linkedin_32.png)](https://www.linkedin.com/in/thomasfuller/) [![Twitter](images/twitter_32.png)](https://twitter.com/ThosPFuller) [![GitHub](images/github_32.png)](https://github.com/thospfuller) [![Email](images/email_32.png)](http://eepurl.com/b5jPPj) [![Coherent Logic Limited](images/CLSocialIconDarkBlue.png)](https://coherentlogic.com)
+# Awesome Backlinks [![License](http://img.shields.io/badge/license-Apache-brightgreen.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.txt) [![LinkedIn](images/linkedin_32.png)](https://www.linkedin.com/in/thomasfuller/) [![Twitter](images/twitter_32.png)](https://twitter.com/ThosPFuller) [![GitHub](images/github_32.png)](https://github.com/thospfuller) [![Email](images/email_32.png)](http://eepurl.com/b5jPPj) [![Coherent Logic Limited](images/CLSocialIconDarkBlue.png)](https://coherentlogic.com?utm_source=abl_on_gh)
 
 A curated list of backlink, social signal opportunities, and referral traffic generation ideas.
 
