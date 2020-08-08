@@ -37,6 +37,7 @@ If you find this site to be useful, please star and/or follow it.
 - Talk at a [meetup.com event](https://meetup.com) and request that the project backlink be added in the details.
 - Post on Facebook (for referral traffic, see also [https://monitorbacklinks.com/blog/seo/facebook-backlinks](https://monitorbacklinks.com/blog/seo/facebook-backlinks) )
 - Showcase the project including the backlink on [Google My Business](https://www.google.com/business/)
+- To be confirmed: Link from a document which was released for Amazon Kindle back to your website.
 
 # See Also
 - [28 Social Media Backlinks To Increase Your Rankings In 2020](https://www.matthewwoodward.co.uk/seo/link-building/social-media-backlinks/)
