@@ -20,6 +20,7 @@ If you find this site to be useful, please star and/or follow it.
     - [WANTED: Other publications here]
   * [dev.to](https://dev.to/)
   * [reddit.com](https://www.reddit.com/)
+  * [theserverside.com](https://www.theserverside.com/)
   * [WANTED: Other sites here]
 - Answer questions on [Quora](https://www.quora.com/) and link to the project.
   * [Better Programming](https://www.quora.com/q/better-programming) has ~ 168k followers.
