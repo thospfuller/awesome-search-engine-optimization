@@ -17,11 +17,11 @@ If you find this site to be useful, please star and/or follow it.
     - [HackerNoon.com](HackerNoon.com) has ~484k subscribers
     - [PM Insider](https://medium.com/pminsider) has ~18k members
     - [Startup Grind](https://medium.com/startup-grind) has ~414k members
+    - [Better Programming](https://www.quora.com/q/better-programming) has ~ 168k followers.
     - [WANTED: Other publications here]
   * [dev.to](https://dev.to/)
   * [reddit.com](https://www.reddit.com/)
   * [theserverside.com](https://www.theserverside.com/)
-  * [Better Programming](https://www.quora.com/q/better-programming) has ~ 168k followers.
   * [DevToolsDigest](https://www.devtoolsdigest.com/)
   * [WANTED: Other sites here]
 - Answer questions on [Quora](https://www.quora.com/) and link to the project.
@@ -41,6 +41,7 @@ If you find this site to be useful, please star and/or follow it.
 - Showcase the project including the backlink on [Google My Business](https://www.google.com/business/)
 - To be confirmed: Link from a document which was released for Amazon Kindle back to your website.
 - Create a document with a backlink and upload it to Scribd.
+- Convert your content into a YouTube educational video and submit it to the [FreeCodeCamp.org channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ), which has ~2.4mm subscribers.
 
 # See Also
 - [28 Social Media Backlinks To Increase Your Rankings In 2020](https://www.matthewwoodward.co.uk/seo/link-building/social-media-backlinks/)
