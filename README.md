@@ -1,8 +1,8 @@
 # Awesome Backlinks [![License](http://img.shields.io/badge/license-Apache-brightgreen.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.txt) [![LinkedIn](images/linkedin_32.png)](https://www.linkedin.com/in/thomasfuller/) [![Twitter](images/twitter_32.png)](https://twitter.com/ThosPFuller) [![GitHub](images/github_32.png)](https://github.com/thospfuller) [![Email](images/email_32.png)](http://eepurl.com/b5jPPj) [![Coherent Logic Limited](images/CLSocialIconDarkBlue.png)](https://coherentlogic.com?utm_source=abl_on_gh) [<img src="images/meetupcom_social_media_circled_network_64x64.png" height="32" width="32">](https://www.meetup.com/Washington-DC-CTO-Meetup-Group/)
 
-A curated list of backlink, social signal opportunities, and referral traffic generation ideas.
+A curated list of backlink, social signal opportunities, social media markering, and referral traffic generation ideas.
 
-If you find this site to be useful, please star and/or follow it.
+If you find this site to be useful, please star and/or follow it. If you have an idea not included here, pull requests are welcomed!
 
 # Ideas
 - Add a link on a page from your company website to the project
