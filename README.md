@@ -17,7 +17,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
     - [HackerNoon.com](HackerNoon.com) has ~484k subscribers
     - [PM Insider](https://medium.com/pminsider) has ~18k members
     - [Startup Grind](https://medium.com/startup-grind) has ~414k members
-    - [Better Programming](https://www.quora.com/q/better-programming) has ~ 168k followers.
+    - [Better Programming](https://medium.com/better-programming) has ~ 168k followers.
     - [WANTED: Other publications here]
   * [dev.to](https://dev.to/)
   * [reddit.com](https://www.reddit.com/)
@@ -25,6 +25,8 @@ If you find this site to be useful, please star and/or follow it. If you have an
   * [DevToolsDigest](https://www.devtoolsdigest.com/)
   * [WANTED: Other sites here]
 - Answer questions on [Quora](https://www.quora.com/) and link to the project.
+  * Answer questions
+  * For content generation opportunities look for questions with a large number of views and/or upvotes and develop content around that subject.
 - Send email to group mailing lists (project awareness, may be indexed if the mailing list is is archived and publicly available).
 - Create a video and release it on [YouTube](https://youtube.com) and link to the project in the description.
 - Find appropriate awesome-[x] lists and add a link to your project there.
