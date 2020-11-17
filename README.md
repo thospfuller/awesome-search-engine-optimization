@@ -14,7 +14,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - Write an article on _____ and backlink to the project.
   * [Medium.com](https://medium.com)
     Medium publications may publish an your article if it meets their criteria. This would expand the audience size considerably, for example: 
-    - [HackerNoon.com](HackerNoon.com) has ~484k subscribers
+    - [HackerNoon.com](HackerNoon.com) has ~484k subscribers (FYI no longer on medium.com)
     - [PM Insider](https://medium.com/pminsider) has ~18k members
     - [Startup Grind](https://medium.com/startup-grind) has ~414k members
     - [Better Programming](https://medium.com/better-programming) has ~ 168k followers.
