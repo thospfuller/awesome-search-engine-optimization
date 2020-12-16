@@ -19,6 +19,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
     - [Startup Grind](https://medium.com/startup-grind) has ~414k members
     - [Better Programming](https://medium.com/better-programming) has ~ 168k followers.
     - [WANTED: Other publications here]
+  * [DZone.com](https://dzone.com/) has ~1mm+ subscribers (TBC)
   * [dev.to](https://dev.to/)
   * [reddit.com](https://www.reddit.com/)
   * [theserverside.com](https://www.theserverside.com/)
@@ -46,7 +47,6 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - Create a document with a backlink and upload it to Scribd.
 - Convert your content into a YouTube educational video and submit it to the [FreeCodeCamp.org channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ), which has ~2.4mm subscribers.
 - Present your content via [EventBright](https://www.eventbrite.com/) (TBC if this idea has merit)
-- Cross-post on [DZone](https://dzone.com/) ~1mm+ subscribers (TBC)
 
 # See Also
 - [28 Social Media Backlinks To Increase Your Rankings In 2020](https://www.matthewwoodward.co.uk/seo/link-building/social-media-backlinks/)
