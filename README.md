@@ -54,3 +54,4 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [What are Backlinks? And How to Build Them in 2020](https://backlinko.com/hub/seo/backlinks)
 - [20 SEO Link Building Methods for 2020](https://smart.linkresearchtools.com/linkthing/case-studies/link-building-techniques)
 - [How to Find Who Links to Your Website (and What to Do Next)](https://ahrefs.com/blog/who-links-to-my-site/)
+- [9 EASY Link Building Strategies (That ANYONE Can Use)](https://ahrefs.com/blog/link-building-strategies/)
