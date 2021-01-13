@@ -1,4 +1,4 @@
-# Awesome Search Engine Optimization Ideas [![License](http://img.shields.io/badge/license-Apache-brightgreen.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.txt)
+# Awesome Search Engine Optimization Ideas [![License](http://img.shields.io/badge/license-Apache-brightgreen.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.txt) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![LinkedIn](images/linkedin_32.png)](https://www.linkedin.com/in/thomasfuller/) [![Twitter](images/twitter_32.png)](https://twitter.com/ThosPFuller) [![GitHub](images/github_32.png)](https://github.com/thospfuller) [![Email](images/email_32.png)](http://eepurl.com/b5jPPj) [![Coherent Logic Limited](images/CLSocialIconDarkBlue.png)](https://coherentlogic.com?utm_source=abl_on_gh) [<img src="images/meetupcom_social_media_circled_network_64x64.png" height="32" width="32">](https://www.meetup.com/Washington-DC-CTO-Meetup-Group/)
 
 A curated list of backlink, social signal opportunities, social media marketing, and referral traffic generation ideas.
