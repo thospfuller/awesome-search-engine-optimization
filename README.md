@@ -11,6 +11,9 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 - [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/)
 
+# Other Tools
+- [tiny jpg](https://tinyjpg.com/) -- Don't assume that images are compressed prior to uploading them. Uncompressed images can place a significant drag on a web server so it will behoove you to compress the image before uploading it.
+
 # Linking Strategies and Ideas
 - Add a link on a page from your company website to the project
 - Add a link on a page from your blog to the project
