@@ -5,6 +5,12 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 If you find this site to be useful, please star and/or follow it. If you have an idea not included here, pull requests are welcomed!
 
+# Testing Tools
+- [Google Rich Results Test](https://search.google.com/test/rich-results)
+- [Facebook for Developers : Sharing Debugger ](https://developers.facebook.com/tools/debug/)
+- [Twitter Card Validator](https://cards-dev.twitter.com/validator)
+- [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/)
+
 # Linking Strategies and Ideas
 - Add a link on a page from your company website to the project
 - Add a link on a page from your blog to the project
