@@ -56,4 +56,5 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [20 SEO Link Building Methods for 2020](https://smart.linkresearchtools.com/linkthing/case-studies/link-building-techniques)
 - [How to Find Who Links to Your Website (and What to Do Next)](https://ahrefs.com/blog/who-links-to-my-site/)
 - [9 EASY Link Building Strategies (That ANYONE Can Use)](https://ahrefs.com/blog/link-building-strategies/)
+- [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization)
 - [Other articles pertaining to SEO can be found at ThosPFuller.com](https://thospfuller.com/category/seo/)
