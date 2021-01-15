@@ -10,6 +10,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [Facebook for Developers : Sharing Debugger ](https://developers.facebook.com/tools/debug/)
 - [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 - [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/)
+- [KeyCDN http2-test](https://tools.keycdn.com/http2-test)
 
 # Other Tools
 - [tiny jpg](https://tinyjpg.com/) -- Don't assume that images are compressed prior to uploading them. Uncompressed images can place a significant drag on a web server so it will behoove you to compress the image before uploading it.
