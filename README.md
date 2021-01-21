@@ -14,6 +14,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [KeyCDN brotli-test](https://tools.keycdn.com/brotli-test)
 - [KeyCDN Performance Tools](https://tools.keycdn.com/performance)
 - [Neustar UltraTools DNS Speed Test](https://www.ultratools.com/tools/dnsHostingSpeedResult)
+- [GZIP and Brotli Compression Test](https://www.giftofspeed.com/gzip-test/)
 
 # Other Tools
 - [tiny jpg](https://tinyjpg.com/) -- Don't assume that images are compressed prior to uploading them. Uncompressed images can place a significant drag on a web server so it will behoove you to compress the image before uploading it.
