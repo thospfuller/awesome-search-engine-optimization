@@ -72,3 +72,4 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [9 EASY Link Building Strategies (That ANYONE Can Use)](https://ahrefs.com/blog/link-building-strategies/)
 - [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization)
 - [Other articles pertaining to SEO can be found at ThosPFuller.com](https://thospfuller.com/category/seo/)
+- [How to Create SEO Friendly URLs](https://neilpatel.com/blog/seo-urls/)
