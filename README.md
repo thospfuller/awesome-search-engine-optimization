@@ -15,6 +15,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [KeyCDN Performance Tools](https://tools.keycdn.com/performance)
 - [Neustar UltraTools DNS Speed Test](https://www.ultratools.com/tools/dnsHostingSpeedResult)
 - [GZIP and Brotli Compression Test](https://www.giftofspeed.com/gzip-test/)
+- [CDN77 TLS Checker](https://www.cdn77.com/tls-test)
 
 # SEO Tools
 - [SEO Learning Center / On-Site SEO / Title Tag](https://moz.com/learn/seo/title-tag)
