@@ -6,6 +6,9 @@ A curated list of backlink, social signal opportunities, social media marketing,
 If you find this site to be useful, please star and/or follow it. If you have an idea not included here, pull requests are welcomed!
 
 # Testing Tools
+- [WebPagetest.org](https://www.webpagetest.org/)
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [Chrome Developer Tools Lighthouse](https://developers.google.com/web/tools/lighthouse)
 - [Google Rich Results Test](https://search.google.com/test/rich-results)
 - [Facebook for Developers : Sharing Debugger ](https://developers.facebook.com/tools/debug/)
 - [Twitter Card Validator](https://cards-dev.twitter.com/validator)
