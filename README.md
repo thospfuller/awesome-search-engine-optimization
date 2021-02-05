@@ -20,6 +20,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [GZIP and Brotli Compression Test](https://www.giftofspeed.com/gzip-test/)
 - [CDN77 TLS Checker](https://www.cdn77.com/tls-test)
 - [dunp lab PWA tester online](https://www.dunplab.it/pwa-tester-online) -- Note that the Chrome browser Lighthouse testing tool also has PWA auditing.
+- [Small SEO Tools : Keyword Rank Checker](https://smallseotools.com/keyword-position/)
 
 # SEO Tools
 - [SEO Learning Center / On-Site SEO / Title Tag](https://moz.com/learn/seo/title-tag)
