@@ -85,3 +85,4 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [Other articles pertaining to SEO can be found at ThosPFuller.com](https://thospfuller.com/category/seo/)
 - [How to Create SEO Friendly URLs](https://neilpatel.com/blog/seo-urls/)
 - [15 Smart Ways to Find Guest Posting Opportunities](https://moz.com/ugc/15-smart-ways-to-find-guest-posting-opportunities)
+- [How to Build High-Quality Backlinks When Nobody Knows Your Name](http://neilpatel.com/blog/build-high-quality-backlinks/)
