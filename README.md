@@ -73,7 +73,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - Create a document with a backlink and upload it to Scribd.
 - Convert your content into a YouTube educational video and submit it to the [FreeCodeCamp.org channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ), which has ~2.4mm subscribers.
 - Present your content via [EventBright](https://www.eventbrite.com/) (TBC if this idea has merit)
-- [AWS IQ](https://iq.aws.amazon.com/) members can add links to other sites in their biography -- you can see an example [in my AWS IQ profile](https://iq.aws.amazon.com/work/#/account/profile/review).
+- [AWS IQ](https://iq.aws.amazon.com/) members can add links to other sites in their biography -- you can see an example [in my AWS IQ profile](https://iq.aws.amazon.com/e/thospfuller).
 
 # Guest Posting, Writing, Blogging Ideas
 - [The Ultimate Guide to Guest Posting in 2021](https://www.quicksprout.com/guest-posting-guide/)
