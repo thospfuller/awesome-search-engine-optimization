@@ -74,6 +74,9 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - Convert your content into a YouTube educational video and submit it to the [FreeCodeCamp.org channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ), which has ~2.4mm subscribers.
 - Present your content via [EventBright](https://www.eventbrite.com/) (TBC if this idea has merit)
 
+# Guest Posting, Writing, Blogging Ideas
+- [The Ultimate Guide to Guest Posting in 2021](https://www.quicksprout.com/guest-posting-guide/)
+
 # See Also
 - [28 Social Media Backlinks To Increase Your Rankings In 2020](https://www.matthewwoodward.co.uk/seo/link-building/social-media-backlinks/)
 - [How to Find 50 Backlink Opportunities in Just 20 Minutes](https://neilpatel.com/blog/backlink-opportunities/)
