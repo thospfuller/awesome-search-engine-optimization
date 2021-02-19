@@ -5,32 +5,8 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 If you find this site to be useful, please star and/or follow it. If you have an idea not included here, pull requests are welcomed!
 
-# Testing Tools
-- [WebPagetest.org](https://www.webpagetest.org/) -- see also [WPO Foundation on GitHub](https://github.com/WPO-Foundation)
-- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-- [Chrome Developer Tools Lighthouse](https://developers.google.com/web/tools/lighthouse)
-- [Google Rich Results Test](https://search.google.com/test/rich-results)
-- [Facebook for Developers : Sharing Debugger ](https://developers.facebook.com/tools/debug/)
-- [Twitter Card Validator](https://cards-dev.twitter.com/validator)
-- [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/)
-- [KeyCDN http2-test](https://tools.keycdn.com/http2-test)
-- [KeyCDN brotli-test](https://tools.keycdn.com/brotli-test)
-- [KeyCDN Performance Tools](https://tools.keycdn.com/performance)
-- [Neustar UltraTools DNS Speed Test](https://www.ultratools.com/tools/dnsHostingSpeedResult)
-- [GZIP and Brotli Compression Test](https://www.giftofspeed.com/gzip-test/)
-- [CDN77 TLS Checker](https://www.cdn77.com/tls-test)
-- [dunp lab PWA tester online](https://www.dunplab.it/pwa-tester-online) -- Note that the Chrome browser Lighthouse testing tool also has PWA auditing.
-- [Small SEO Tools : Keyword Rank Checker](https://smallseotools.com/keyword-position/)
-
-# SEO Tools
-- [SEO Learning Center / On-Site SEO / Title Tag](https://moz.com/learn/seo/title-tag)
-- [Ahrefs Website "Authority" Checker](https://ahrefs.com/website-authority-checker)
-
-# Other Tools
-- [tiny jpg](https://tinyjpg.com/) -- Don't assume that images are compressed prior to uploading them. Uncompressed images can place a significant drag on a web server so it will behoove you to compress the image before uploading it.
-- [BuiltWith](https://builtwith.com/)
-
 # Linking Strategies and Ideas
+- Create an infographic -- from [What Type of Backlinks Does Your Business Really Need Right Now?](https://neilpatel.com/blog/what-type-of-backlinks-does-your-business-really-need-right-now/) : "[a]t the old KISSMetrics site, 47 infographics generated 2,512,596 visitors and 41,142 backlinks from 3,741 unique domains" and "...at Quicksprout, every infographic I published generated 41,487 visitors and 469 backlinks from 38 unique domains" -- when we're talking ROI creating an infographic, at least insofar as these numbers go, probably has the highest potential return.
 - Add a link on a page from your company website to the project
 - Add a link on a page from your blog to the project
 - Twitter (social signal)
@@ -80,6 +56,31 @@ If you find this site to be useful, please star and/or follow it. If you have an
 
 # Guest Posting, Writing, Blogging Ideas
 - [The Ultimate Guide to Guest Posting in 2021](https://www.quicksprout.com/guest-posting-guide/)
+
+# Testing Tools
+- [WebPagetest.org](https://www.webpagetest.org/) -- see also [WPO Foundation on GitHub](https://github.com/WPO-Foundation)
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [Chrome Developer Tools Lighthouse](https://developers.google.com/web/tools/lighthouse)
+- [Google Rich Results Test](https://search.google.com/test/rich-results)
+- [Facebook for Developers : Sharing Debugger ](https://developers.facebook.com/tools/debug/)
+- [Twitter Card Validator](https://cards-dev.twitter.com/validator)
+- [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/)
+- [KeyCDN http2-test](https://tools.keycdn.com/http2-test)
+- [KeyCDN brotli-test](https://tools.keycdn.com/brotli-test)
+- [KeyCDN Performance Tools](https://tools.keycdn.com/performance)
+- [Neustar UltraTools DNS Speed Test](https://www.ultratools.com/tools/dnsHostingSpeedResult)
+- [GZIP and Brotli Compression Test](https://www.giftofspeed.com/gzip-test/)
+- [CDN77 TLS Checker](https://www.cdn77.com/tls-test)
+- [dunp lab PWA tester online](https://www.dunplab.it/pwa-tester-online) -- Note that the Chrome browser Lighthouse testing tool also has PWA auditing.
+- [Small SEO Tools : Keyword Rank Checker](https://smallseotools.com/keyword-position/)
+
+# SEO Tools
+- [SEO Learning Center / On-Site SEO / Title Tag](https://moz.com/learn/seo/title-tag)
+- [Ahrefs Website "Authority" Checker](https://ahrefs.com/website-authority-checker)
+
+# Other Tools
+- [tiny jpg](https://tinyjpg.com/) -- Don't assume that images are compressed prior to uploading them. Uncompressed images can place a significant drag on a web server so it will behoove you to compress the image before uploading it.
+- [BuiltWith](https://builtwith.com/)
 
 # See Also
 - [28 Social Media Backlinks To Increase Your Rankings In 2020](https://www.matthewwoodward.co.uk/seo/link-building/social-media-backlinks/)
