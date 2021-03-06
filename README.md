@@ -57,7 +57,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 # Guest Posting, Writing, Blogging Ideas
 - [The Ultimate Guide to Guest Posting in 2021](https://www.quicksprout.com/guest-posting-guide/)
 
-# Testing Tools
+# Technical Search Engine Optimization (Technical SEO) Testing Tools
 - [WebPagetest.org](https://www.webpagetest.org/) -- see also [WPO Foundation on GitHub](https://github.com/WPO-Foundation)
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [Chrome Developer Tools Lighthouse](https://developers.google.com/web/tools/lighthouse)
@@ -74,6 +74,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [dunp lab PWA tester online](https://www.dunplab.it/pwa-tester-online) -- Note that the Chrome browser Lighthouse testing tool also has PWA auditing.
 - [Small SEO Tools : Keyword Rank Checker](https://smallseotools.com/keyword-position/)
 - [Google AMP Test](https://search.google.com/test/amp)
+- [AMP Project Validator](https://validator.ampproject.org/)
 - [Google Webmaster Tools Robots.txt testing tool](https://www.google.com/webmasters/tools/robots-testing-tool)
 
 # SEO Tools
