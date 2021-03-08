@@ -86,6 +86,12 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [Moz Local](https://moz.com/products/local) -- Moz Local helps you easily create and manage your local business listings on Google, Facebook, and other sites to help consumers find and choose your business; see also: [What is Local SEO?](https://moz.com/learn/seo/local).
 - [Surfer Local](https://surferlocal.com/) -- Surfer Local is a tool for analyzing competitors and generating strategies for growing business.
 
+# Event Announcements
+- Meetup.com
+- Google My Business -> Posts -> Add Event
+- Dev.to
+- LinkedIn
+
 # Other Tools
 - [tiny jpg](https://tinyjpg.com/) -- Don't assume that images are compressed prior to uploading them. Uncompressed images can place a significant drag on a web server so it will behoove you to compress the image before uploading it.
 - [BuiltWith](https://builtwith.com/) -- Find out what websites are built with.
