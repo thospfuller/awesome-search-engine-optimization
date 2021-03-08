@@ -82,9 +82,13 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [SEO Learning Center / On-Site SEO / Title Tag](https://moz.com/learn/seo/title-tag)
 - [Ahrefs Website "Authority" Checker](https://ahrefs.com/website-authority-checker)
 
+# Local SEO Tools
+- [Moz Local](https://moz.com/products/local) -- Moz Local helps you easily create and manage your local business listings on Google, Facebook, and other sites to help consumers find and choose your business.
+- [Surfer Local](https://surferlocal.com/) -- Surfer Local is a tool for analyzing competitors and generating strategies for growing business.
+
 # Other Tools
 - [tiny jpg](https://tinyjpg.com/) -- Don't assume that images are compressed prior to uploading them. Uncompressed images can place a significant drag on a web server so it will behoove you to compress the image before uploading it.
-- [BuiltWith](https://builtwith.com/)
+- [BuiltWith](https://builtwith.com/) -- Find out what websites are built with.
 
 # See Also
 - [28 Social Media Backlinks To Increase Your Rankings In 2020](https://www.matthewwoodward.co.uk/seo/link-building/social-media-backlinks/)
