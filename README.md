@@ -95,6 +95,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - Dev.to
 - LinkedIn
 - Slack Communities
+- [13 Ways to Use Facebook Events for Your Brand](https://sproutsocial.com/insights/facebook-events/)
 
 # Other Tools
 - [tiny jpg](https://tinyjpg.com/) -- Don't assume that images are compressed prior to uploading them. Uncompressed images can place a significant drag on a web server so it will behoove you to compress the image before uploading it.
