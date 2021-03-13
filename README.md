@@ -58,6 +58,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 
 # Guest Posting, Writing, Blogging Ideas
 - [The Ultimate Guide to Guest Posting in 2021](https://www.quicksprout.com/guest-posting-guide/)
+- [Google Podcasts](https://podcasts.google.com/)
 
 # Technical Search Engine Optimization (Technical SEO) Testing Tools
 - [WebPagetest.org](https://www.webpagetest.org/) -- see also [WPO Foundation on GitHub](https://github.com/WPO-Foundation)
@@ -89,6 +90,9 @@ If you find this site to be useful, please star and/or follow it. If you have an
 # Local SEO Tools
 - [Moz Local](https://moz.com/products/local) -- Moz Local helps you easily create and manage your local business listings on Google, Facebook, and other sites to help consumers find and choose your business; see also: [What is Local SEO?](https://moz.com/learn/seo/local).
 - [Surfer Local](https://surferlocal.com/) -- Surfer Local is a tool for analyzing competitors and generating strategies for growing business.
+
+# Keyword Research Tools
+- [WebFX: KeywordsFX Free Keyword Suggestion Tool](https://www.webfx.com/tools/keywordsfx/)
 
 # Event Announcements
 - Meetup.com
