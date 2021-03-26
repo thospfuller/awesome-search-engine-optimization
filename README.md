@@ -8,6 +8,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 While you're here: I wrote an article entitled [Technical Search Engine Optimization (Technical SEO) Crash Course](https://thospfuller.com/2021/03/22/technical-search-engine-optimization-crash-course/) which may be of interest so I thought I'd mention it.
 
 # Link Building Strategies and Backlinking Ideas
+- [Are Link Exchanges a Legitimate SEO Strategy in 2021?](https://linkbuilder.io/link-exchange/)
 - Further research required, mentioned but not endorsed: Engage a link-building service (RhinoRank, Authority Builders, Crowdo).
 - Create an infographic -- from [What Type of Backlinks Does Your Business Really Need Right Now?](https://neilpatel.com/blog/what-type-of-backlinks-does-your-business-really-need-right-now/) : "[a]t the old KISSMetrics site, 47 infographics generated 2,512,596 visitors and 41,142 backlinks from 3,741 unique domains" and "...at Quicksprout, every infographic I published generated 41,487 visitors and 469 backlinks from 38 unique domains" -- when we're talking ROI creating an infographic, at least insofar as these numbers go, probably has the highest potential return. See also [12 Infographic Tips That You Wish You Knew Years Ago](https://neilpatel.com/blog/12-infographic-tips/). See also [Canva: Free infographic maker](https://www.canva.com/create/infographics/).
 - Add a link on a page from your company website to the project
