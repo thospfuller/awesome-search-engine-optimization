@@ -95,6 +95,9 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 - [Moz Local](https://moz.com/products/local) -- Moz Local helps you easily create and manage your local business listings on Google, Facebook, and other sites to help consumers find and choose your business; see also: [What is Local SEO?](https://moz.com/learn/seo/local).
 - [Surfer Local](https://surferlocal.com/) -- Surfer Local is a tool for analyzing competitors and generating strategies for growing business.
 
+# Local SEO
+[Local SEO: A Simple (But Complete) Guide](https://ahrefs.com/blog/local-seo/) See quote re Bing Places "there will be an option to import data from Google My Business."
+
 # Keyword Research Tools
 - [WebFX: KeywordsFX Free Keyword Suggestion Tool](https://www.webfx.com/tools/keywordsfx/)
 
