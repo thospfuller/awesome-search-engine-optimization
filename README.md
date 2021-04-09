@@ -64,6 +64,9 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 - [The Ultimate Guide to Guest Posting in 2021](https://www.quicksprout.com/guest-posting-guide/)
 - [Google Podcasts](https://podcasts.google.com/)
 
+# Technical Search Engine Optimization (Technical SEO) Articles and Videos
+- [Technical Search Engine Optimization (Technical SEO) Crash Course](https://thospfuller.com/2021/03/22/technical-search-engine-optimization-crash-course/)
+
 # Technical Search Engine Optimization (Technical SEO) Testing Tools
 - [WebPagetest.org](https://www.webpagetest.org/) -- see also [WPO Foundation on GitHub](https://github.com/WPO-Foundation)
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
