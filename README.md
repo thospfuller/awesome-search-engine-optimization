@@ -100,8 +100,8 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 - [Surfer Local](https://surferlocal.com/) -- Surfer Local is a tool for analyzing competitors and generating strategies for growing business.
 
 # Local SEO
-[Local SEO: A Simple (But Complete) Guide](https://ahrefs.com/blog/local-seo/) See quote re Bing Places "there will be an option to import data from Google My Business."
-[How To Dominate The Google Snack Pack & Local SEO](https://youtu.be/ZeTXEwt6nRo)
+- [Local SEO: A Simple (But Complete) Guide](https://ahrefs.com/blog/local-seo/) See quote re Bing Places "there will be an option to import data from Google My Business."
+- [How To Dominate The Google Snack Pack & Local SEO](https://youtu.be/ZeTXEwt6nRo)
 
 # Keyword Research Tools
 - [WebFX: KeywordsFX Free Keyword Suggestion Tool](https://www.webfx.com/tools/keywordsfx/)
