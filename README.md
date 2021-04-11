@@ -107,6 +107,7 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 - [WebFX: KeywordsFX Free Keyword Suggestion Tool](https://www.webfx.com/tools/keywordsfx/)
 
 # Event Announcements
+- Moz Local has a publish button -- TBD regarding how effective this is at event announcements.
 - Meetup.com
 - Google My Business -> Posts -> Add Event
 - Dev.to
@@ -117,6 +118,7 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 # Other Tools
 - [tiny jpg](https://tinyjpg.com/) -- Don't assume that images are compressed prior to uploading them. Uncompressed images can place a significant drag on a web server so it will behoove you to compress the image before uploading it.
 - [BuiltWith](https://builtwith.com/) -- Find out what websites are built with.
+- [15 Awesome SEO Competitor Analysis Tools](https://mention.com/en/blog/competitor-seo-tools/)
 
 # SEO Communities
 - [BigSEO Slack Community Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfRAnvSg83SQD8v6zYn69WPw_1SJXdPzr4YvT6jVs1KUH0zwA/viewform)
