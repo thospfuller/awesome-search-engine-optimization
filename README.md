@@ -137,3 +137,4 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 - [How to Create SEO Friendly URLs](https://neilpatel.com/blog/seo-urls/)
 - [15 Smart Ways to Find Guest Posting Opportunities](https://moz.com/ugc/15-smart-ways-to-find-guest-posting-opportunities)
 - [How to Build High-Quality Backlinks When Nobody Knows Your Name](http://neilpatel.com/blog/build-high-quality-backlinks/)
+- [SEO Hidden Gem: How do you find out which questions your site ranks for?](https://thospfuller.com/2021/04/19/seo-how-do-you-find-out-which-keywords-your-site-ranks-for/)
