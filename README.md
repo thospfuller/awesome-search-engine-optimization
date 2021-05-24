@@ -93,6 +93,7 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 - [SEO Learning Center / On-Site SEO / Title Tag](https://moz.com/learn/seo/title-tag)
 - [Ahrefs Website "Authority" Checker](https://ahrefs.com/website-authority-checker)
 - [TechnicalSEO.com](https://technicalseo.com/)
+- [LinkWhisper: Building Smart Internal Links Just Got Easier](https://linkwhisper.com/)
 
 # On-Page SEO Tools
 - [Moz.com SEO Learning Center -> On-Site SEO -> Title Tag -> Title Tag Preview Tool](https://moz.com/learn/seo/title-tag)
