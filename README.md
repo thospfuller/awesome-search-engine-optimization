@@ -119,6 +119,10 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 - Slack Communities
 - [13 Ways to Use Facebook Events for Your Brand](https://sproutsocial.com/insights/facebook-events/)
 
+# SEO Experts on Twitter
+- [Patrick Stox](https://twitter.com/patrickstox)
+- [Dan Taylor](https://twitter.com/TaylorDanRW)
+
 # Other Tools
 - [tiny jpg](https://tinyjpg.com/) -- Don't assume that images are compressed prior to uploading them. Uncompressed images can place a significant drag on a web server so it will behoove you to compress the image before uploading it.
 - [BuiltWith](https://builtwith.com/) -- Find out what websites are built with.
