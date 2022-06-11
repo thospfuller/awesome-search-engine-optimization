@@ -127,6 +127,7 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 - [Kristina Azarenko](https://twitter.com/azarchick)
 - [Keith Goode](https://twitter.com/keithgoode)
 - [Carolyn Shelby](https://twitter.com/cshel)
+- [Chris Silver Smith](https://twitter.com/si1very)
 
 # Other Tools
 - [tiny jpg](https://tinyjpg.com/) -- Don't assume that images are compressed prior to uploading them. Uncompressed images can place a significant drag on a web server so it will behoove you to compress the image before uploading it.
