@@ -133,6 +133,7 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 - [Sam Underwood](https://mobile.twitter.com/samunderwooduk)
 - [Daniel Waisberg](https://twitter.com/danielwaisberg)
 - [Cyrus Shepard](https://twitter.com/CyrusShepard)
+- [Shaun Anderson](https://twitter.com/Hobo_Web)
 
 # Other Tools
 - [tiny jpg](https://tinyjpg.com/) -- Don't assume that images are compressed prior to uploading them. Uncompressed images can place a significant drag on a web server so it will behoove you to compress the image before uploading it.
