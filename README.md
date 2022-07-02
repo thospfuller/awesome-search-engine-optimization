@@ -95,6 +95,7 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 - [Ahrefs Website "Authority" Checker](https://ahrefs.com/website-authority-checker)
 - [TechnicalSEO.com](https://technicalseo.com/)
 - [LinkWhisper: Building Smart Internal Links Just Got Easier](https://linkwhisper.com/)
+- [FREE Hobo SEO Checklist & Task Manager (V1 .1) SEO audit template compliments of Shaun Anderson](https://docs.google.com/spreadsheets/d/1Pr0kjCQc93qrDFJyLA-FuhIOLeFFGNCDPOkGzeQxo-8/)
 
 # On-Page SEO Tools
 - [Moz.com SEO Learning Center -> On-Site SEO -> Title Tag -> Title Tag Preview Tool](https://moz.com/learn/seo/title-tag)
