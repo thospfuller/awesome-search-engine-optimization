@@ -93,6 +93,8 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 # SEO Tools
 - [SEO Learning Center / On-Site SEO / Title Tag](https://moz.com/learn/seo/title-tag)
 - [Ahrefs Website "Authority" Checker](https://ahrefs.com/website-authority-checker)
+- [Ahrefs Broken Link Checker](https://ahrefs.com/broken-link-checker)
+- [Ahrefs Backlink Checker](https://ahrefs.com/backlink-checker)
 - [TechnicalSEO.com](https://technicalseo.com/)
 - [LinkWhisper: Building Smart Internal Links Just Got Easier](https://linkwhisper.com/)
 - [FREE Hobo SEO Checklist & Task Manager (V1 .1) SEO audit template compliments of Shaun Anderson](https://docs.google.com/spreadsheets/d/1Pr0kjCQc93qrDFJyLA-FuhIOLeFFGNCDPOkGzeQxo-8/)
