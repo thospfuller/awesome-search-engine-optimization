@@ -8,6 +8,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 While you're here: I wrote an article entitled [Technical Search Engine Optimization (Technical SEO) Crash Course](https://thospfuller.com/2021/03/22/technical-search-engine-optimization-crash-course/) which may be of interest so I thought I'd mention it.
 
 # Link Building Strategies and Backlinking Ideas
+- Register with your local Chamber of Commerce -- the business directory may offer a backlink opportunity.
 - [Are Link Exchanges a Legitimate SEO Strategy in 2021?](https://linkbuilder.io/link-exchange/)
 - [Google Search Central -> Link schemes](https://developers.google.com/search/docs/advanced/guidelines/link-schemes) note "[e]xcessive link exchanges"
 - [An easy way to build links (no fluff)](https://www.linkedin.com/pulse/easy-way-build-links-fluff-liam-fallen/)
