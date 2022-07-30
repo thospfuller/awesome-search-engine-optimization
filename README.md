@@ -141,6 +141,7 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 
 # SEO Threads on Twitter
 - [@fatjoedavies: The fastest and most effective way to increase organic traffic?](https://twitter.com/fatjoedavies/status/1546438161957535751)
+- [@jaredbauman: "The easiest way to get organic backlinks is to write a blog post based on statistics or include statistics in your post. If you can incorporate your own data, even better."](https://twitter.com/jaredbauman/status/1552644043531845639)
 
 # Digital Marketing Threads on Twitter
 - [Aazar Shad](https://twitter.com/Aazarshad/status/1546494541661736961)
