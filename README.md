@@ -138,6 +138,7 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 - [Daniel Waisberg](https://twitter.com/danielwaisberg)
 - [Cyrus Shepard](https://twitter.com/CyrusShepard)
 - [Shaun Anderson](https://twitter.com/Hobo_Web)
+- [Brodie Clark](https://twitter.com/brodieseo)
 
 # SEO Threads on Twitter
 - [@fatjoedavies: The fastest and most effective way to increase organic traffic?](https://twitter.com/fatjoedavies/status/1546438161957535751)
