@@ -90,6 +90,7 @@ While you're here: I wrote an article entitled [Technical Search Engine Optimiza
 - [AMP Project Validator](https://validator.ampproject.org/)
 - [Google Webmaster Tools Robots.txt testing tool](https://www.google.com/webmasters/tools/robots-testing-tool)
 - [Crawler Test](https://crawler-test.com/) -- Used to test how custom crawlers handle edge cases such as JavaScript or Cyrilic URLs.
+- [Netcraft Site Report: What's that site running? Find out the infrastructure and technologies used by any site.](https://sitereport.netcraft.com/)
 
 # SEO Tools
 - [SEO Learning Center / On-Site SEO / Title Tag](https://moz.com/learn/seo/title-tag)
