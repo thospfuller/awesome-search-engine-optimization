@@ -5,7 +5,8 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 If you find this site to be useful, please star and/or follow it. If you have an idea not included here, pull requests are welcomed!
 
-While you're here: I wrote an article entitled [Technical Search Engine Optimization (Technical SEO) Crash Course](https://thospfuller.com/2021/03/22/technical-search-engine-optimization-crash-course/) which may be of interest so I thought I'd mention it.
+# General Search Engine Optimization (SEO) Articles
+- [Why Does Your Search Traffic Suck? The 7 Most Likely Reasons - Moz](https://moz.com/blog/why-does-your-search-traffic-suck-the-6-most-likely-reasons)
 
 # Link Building Strategies and Backlinking Ideas
 - [Help a Reporter Out (HARO)](https://www.helpareporter.com/), see also [How to Get Backlinks: 11 Strategies](https://www.semrush.com/blog/how-to-get-backlinks/)
