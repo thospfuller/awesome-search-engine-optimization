@@ -7,6 +7,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 
 # General Search Engine Optimization (SEO) Articles
 - [Why Does Your Search Traffic Suck? The 7 Most Likely Reasons - Moz](https://moz.com/blog/why-does-your-search-traffic-suck-the-6-most-likely-reasons)
+# [Holy Grail SEO: High Volume, Low Competition Keywords](https://www.searchenginejournal.com/keyword-competition/313815/) -- "Instead of targeting keywords or topics that have high volume, we need to target keywords and topics that we actually have a chance to rank for, making the best use of our time and SEO efforts."
 
 # Link Building Strategies and Backlinking Ideas
 - [Help a Reporter Out (HARO)](https://www.helpareporter.com/), see also [How to Get Backlinks: 11 Strategies](https://www.semrush.com/blog/how-to-get-backlinks/)
