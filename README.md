@@ -7,7 +7,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 
 # General Search Engine Optimization (SEO) Articles
 - [Why Does Your Search Traffic Suck? The 7 Most Likely Reasons - Moz](https://moz.com/blog/why-does-your-search-traffic-suck-the-6-most-likely-reasons)
-# [Holy Grail SEO: High Volume, Low Competition Keywords](https://www.searchenginejournal.com/keyword-competition/313815/) -- "Instead of targeting keywords or topics that have high volume, we need to target keywords and topics that we actually have a chance to rank for, making the best use of our time and SEO efforts."
+# [Holy Grail SEO: High Volume, Low Competition Keywords -- "Instead of targeting keywords or topics that have high volume, we need to target keywords and topics that we actually have a chance to rank for, making the best use of our time and SEO efforts."](https://www.searchenginejournal.com/keyword-competition/313815/)
 
 # Link Building Strategies and Backlinking Ideas
 - [Help a Reporter Out (HARO)](https://www.helpareporter.com/), see also [How to Get Backlinks: 11 Strategies](https://www.semrush.com/blog/how-to-get-backlinks/)
@@ -93,6 +93,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [AMP Project Validator](https://validator.ampproject.org/)
 - [Google Webmaster Tools Robots.txt testing tool](https://www.google.com/webmasters/tools/robots-testing-tool)
 - [Crawler Test](https://crawler-test.com/) -- Used to test how custom crawlers handle edge cases such as JavaScript or Cyrilic URLs.
+- [Bing Webmaster Tools](https://www.bing.com/webmasters/)
 - [Netcraft Site Report: What's that site running? Find out the infrastructure and technologies used by any site.](https://sitereport.netcraft.com/)
 - [BuiltWith](https://builtwith.com/) -- Find out what websites are built with.
 
@@ -113,7 +114,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [Surfer Local](https://surferlocal.com/) -- Surfer Local is a tool for analyzing competitors and generating strategies for growing business.
 
 # Local SEO
-- [Local SEO: A Simple (But Complete) Guide](https://ahrefs.com/blog/local-seo/) See quote re Bing Places "there will be an option to import data from Google My Business."
+- [Local SEO: A Simple (But Complete) Guide](https://ahrefs.com/blog/local-seo/) See quote re Places "there will be an option to import data from Google My Business."
 - [How To Dominate The Google Snack Pack & Local SEO](https://youtu.be/ZeTXEwt6nRo)
 
 # Keyword Research Tools
