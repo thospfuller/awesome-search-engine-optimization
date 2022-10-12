@@ -98,6 +98,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [BuiltWith](https://builtwith.com/) -- Find out what websites are built with.
 
 # SEO Tools
+- [Google Trends](https://trends.google.com/) -- "Explore what the world is searching [for]".
 - [SEO Learning Center / On-Site SEO / Title Tag](https://moz.com/learn/seo/title-tag)
 - [Ahrefs Website "Authority" Checker](https://ahrefs.com/website-authority-checker)
 - [Ahrefs Broken Link Checker](https://ahrefs.com/broken-link-checker)
