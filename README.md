@@ -106,6 +106,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [TechnicalSEO.com](https://technicalseo.com/)
 - [LinkWhisper: Building Smart Internal Links Just Got Easier](https://linkwhisper.com/)
 - [FREE Hobo SEO Checklist & Task Manager (V1 .1) SEO audit template compliments of Shaun Anderson](https://docs.google.com/spreadsheets/d/1Pr0kjCQc93qrDFJyLA-FuhIOLeFFGNCDPOkGzeQxo-8/)
+- [MonsterInsights.com Headline Analyzer tool enables you to write irresistible SEO headlines that drive traffic, shares, and rank better in search results.](https://www.monsterinsights.com/headline-analyzer/)
 
 # On-Page SEO Tools
 - [Moz.com SEO Learning Center -> On-Site SEO -> Title Tag -> Title Tag Preview Tool](https://moz.com/learn/seo/title-tag)
