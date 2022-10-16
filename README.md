@@ -151,6 +151,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 # SEO Threads on Twitter
 - [@fatjoedavies: The fastest and most effective way to increase organic traffic?](https://twitter.com/fatjoedavies/status/1546438161957535751)
 - [@jaredbauman: "The easiest way to get organic backlinks is to write a blog post based on statistics or include statistics in your post. If you can incorporate your own data, even better."](https://twitter.com/jaredbauman/status/1552644043531845639)
+- [@azarchick: "The difference between fragments and hashbangs in the URLs. # vs #!"](https://twitter.com/azarchick/status/1580991816056197122)
 
 # Niche Site-Related Threads on Twitter
 - [@shwnhll: "When I started my site 22 months ago, my dream goal was to make $500/month. It’s now making about $500/day. Dream bigger."](https://twitter.com/shwnhll/status/1577343861155840002)
