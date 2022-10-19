@@ -97,6 +97,7 @@ If you find this site to be useful, please star and/or follow it. If you have an
 - [Bing Webmaster Tools](https://www.bing.com/webmasters/)
 - [Netcraft Site Report: What's that site running? Find out the infrastructure and technologies used by any site.](https://sitereport.netcraft.com/)
 - [BuiltWith](https://builtwith.com/) -- Find out what websites are built with.
+- [httpstatus.io is a popular bulk HTTP status checker, redirect checker and header checker.](https://httpstatus.io/)
 
 # SEO Tools
 - [Google Trends](https://trends.google.com/) -- "Explore what the world is searching [for]".
