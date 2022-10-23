@@ -3,9 +3,10 @@
 
 A curated list of backlink, social signal opportunities, social media marketing, and referral traffic generation ideas.
 
-If you find this site to be useful, please star and/or follow it. If you have an idea not included here, pull requests are welcomed!
+If you find this site to be useful, please star and/or watch it. If you have an idea not included here, pull requests are welcomed!
 
 # General Search Engine Optimization (SEO) Articles
+# [Google Search Essentials](https://developers.google.com/search/docs/essentials) -- "The Google Search Essentials make up the core parts of what makes your web-based content (web pages, images, videos, or other publicly-available material that Google finds on the web) eligible to appear and perform well on Google Search"
 - [Why Does Your Search Traffic Suck? The 7 Most Likely Reasons - Moz](https://moz.com/blog/why-does-your-search-traffic-suck-the-6-most-likely-reasons)
 - [Holy Grail SEO: High Volume, Low Competition Keywords](https://www.searchenginejournal.com/keyword-competition/313815/) -- "Instead of targeting keywords or topics that have high volume, we need to target keywords and topics that we actually have a chance to rank for, making the best use of our time and SEO efforts."
 
