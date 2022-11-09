@@ -72,6 +72,7 @@ If you find this site to be useful, please star and/or watch it. If you have an 
 # Guest Posting, Writing, Blogging, Syndication Ideas
 - [The Ultimate Guide to Guest Posting in 2021](https://www.quicksprout.com/guest-posting-guide/)
 - [Google Podcasts](https://podcasts.google.com/)
+- [Show up in Google News](https://support.google.com/news/publisher-center/answer/9607025?hl=en)
 - [Bing PubHub](https://www.bing.com/webmasters/pubhub) -- Note that "[b]oth news and non-news supported!"; see also [Bing’s New PubHub Offers Millions Of New Site Visitors](https://www.searchenginejournal.com/bings-new-pubhub-offers-millions-of-new-site-visitors/437067/).
 
 # Technical Search Engine Optimization (Technical SEO) Articles and Videos
