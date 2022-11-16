@@ -178,6 +178,9 @@ If you find this site to be useful, please star and/or watch it. If you have an 
 # SEO Communities
 - [BigSEO Slack Community Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfRAnvSg83SQD8v6zYn69WPw_1SJXdPzr4YvT6jVs1KUH0zwA/viewform)
 
+# SEO-Related Websites
+- [Search Engine Roundtable](https://www.seroundtable.com/)
+
 # See Also
 - [28 Social Media Backlinks To Increase Your Rankings In 2020](https://www.matthewwoodward.co.uk/seo/link-building/social-media-backlinks/)
 - [How to Find 50 Backlink Opportunities in Just 20 Minutes](https://neilpatel.com/blog/backlink-opportunities/)
