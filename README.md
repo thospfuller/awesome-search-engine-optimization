@@ -13,6 +13,7 @@ If you find this site to be useful, please star and/or watch it. If you have an 
 - [Holy Grail SEO: High Volume, Low Competition Keywords](https://www.searchenginejournal.com/keyword-competition/313815/) -- "Instead of targeting keywords or topics that have high volume, we need to target keywords and topics that we actually have a chance to rank for, making the best use of our time and SEO efforts."
 
 # Link Building Strategies and Backlinking Ideas
+- [11 Creative (But 100% White Hat!) Ways to Earn Backlinks in 2022](https://blog.hubspot.com/marketing/backlink-strategies)
 - [Help a Reporter Out (HARO)](https://www.helpareporter.com/), see also [How to Get Backlinks: 11 Strategies](https://www.semrush.com/blog/how-to-get-backlinks/)
 - Register with your local Chamber of Commerce -- the business directory may offer a backlink opportunity.
 - [Are Link Exchanges a Legitimate SEO Strategy in 2021?](https://linkbuilder.io/link-exchange/)
