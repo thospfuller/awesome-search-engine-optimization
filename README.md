@@ -110,7 +110,7 @@ If you find this site to be useful, please star and/or watch it. If you have an 
 - [Ahrefs Website "Authority" Checker](https://ahrefs.com/website-authority-checker)
 - [Ahrefs Broken Link Checker](https://ahrefs.com/broken-link-checker)
 - [Ahrefs Backlink Checker](https://ahrefs.com/backlink-checker)
-- [TechnicalSEO.com](https://technicalseo.com/)
+- [TechnicalSEO.com/tools](https://technicalseo.com/tools/)
 - [LinkWhisper: Building Smart Internal Links Just Got Easier](https://linkwhisper.com/)
 - [FREE Hobo SEO Checklist & Task Manager (V1 .1) SEO audit template compliments of Shaun Anderson](https://docs.google.com/spreadsheets/d/1Pr0kjCQc93qrDFJyLA-FuhIOLeFFGNCDPOkGzeQxo-8/)
 - [MonsterInsights.com Headline Analyzer tool enables you to write irresistible SEO headlines that drive traffic, shares, and rank better in search results.](https://www.monsterinsights.com/headline-analyzer/)
