@@ -185,6 +185,7 @@ If you find this site to be useful, please star and/or watch it. If you have an 
 - [Search Engine Roundtable](https://www.seroundtable.com/)
 
 # See Also
+- [Controversial: Should I disable the indexing of tags in Wordpress?](https://moz.com/community/q/topic/68981/should-i-disable-the-indexing-of-tags-in-wordpress/)
 - [28 Social Media Backlinks To Increase Your Rankings In 2020](https://www.matthewwoodward.co.uk/seo/link-building/social-media-backlinks/)
 - [How to Find 50 Backlink Opportunities in Just 20 Minutes](https://neilpatel.com/blog/backlink-opportunities/)
 - [What are Backlinks? And How to Build Them in 2020](https://backlinko.com/hub/seo/backlinks)
