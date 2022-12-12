@@ -82,7 +82,7 @@ If you find this site to be useful, please star and/or watch it. If you have an 
 
 # Technical Search Engine Optimization (Technical SEO) Testing Tools
 - [WebPagetest.org](https://www.webpagetest.org/) -- see also [WPO Foundation on GitHub](https://github.com/WPO-Foundation)
-- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [Google PageSpeed Insights](https://pagespeed.web.dev/) -- Make your web pages fast on all devices
 - [Chrome Developer Tools Lighthouse](https://developers.google.com/web/tools/lighthouse)
 - [Google Rich Results Test](https://search.google.com/test/rich-results)
 - [Facebook for Developers : Sharing Debugger ](https://developers.facebook.com/tools/debug/)
