@@ -187,6 +187,7 @@ If you find this site to be useful, please star and/or watch it. If you have an 
 - [Search Engine Roundtable](https://www.seroundtable.com/)
 
 # See Also
+- [Google Search Console: How Accurate is the Average Position Metric?](https://www.searchenginejournal.com/google-search-console-how-accurate-is-the-average-position-metric/403368/) -- "We learn from Mueller that the average position metric is based on real data. It’s a reliable measurement, even if it doesn’t always match up with what site owners see when they check their own ranking positions."
 - [Controversial: Should I disable the indexing of tags in Wordpress?](https://moz.com/community/q/topic/68981/should-i-disable-the-indexing-of-tags-in-wordpress/)
 - [28 Social Media Backlinks To Increase Your Rankings In 2020](https://www.matthewwoodward.co.uk/seo/link-building/social-media-backlinks/)
 - [How to Find 50 Backlink Opportunities in Just 20 Minutes](https://neilpatel.com/blog/backlink-opportunities/)
