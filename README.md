@@ -165,6 +165,7 @@ If you find this site to be useful, please star and/or watch it. If you have an 
 - [Brodie Clark](https://twitter.com/brodieseo)
 
 # SEO Threads on Twitter
+- [@GaelBreton: Here’s exactly how you can find low-competition long-tail keywords using ChatGPT.](https://twitter.com/GaelBreton/status/1620421723874299914)
 - [@ahrefs: "Our blog ranks on the first page of Google for >13,600 keywords--and using these tips helped us get there."](https://twitter.com/ahrefs/status/1610123817447219201)
 - [@fatjoedavies: The fastest and most effective way to increase organic traffic?](https://twitter.com/fatjoedavies/status/1546438161957535751)
 - [@jaredbauman: "The easiest way to get organic backlinks is to write a blog post based on statistics or include statistics in your post. If you can incorporate your own data, even better."](https://twitter.com/jaredbauman/status/1552644043531845639)
