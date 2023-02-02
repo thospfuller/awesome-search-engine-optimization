@@ -166,6 +166,7 @@ If you find this site to be useful, please star and/or watch it. If you have an 
 - [Brodie Clark](https://twitter.com/brodieseo)
 
 # SEO Threads on Twitter
+- [@Nick_zv_: 10 Link-Building Tactics That REALLY Work 🚀](https://twitter.com/Nick_zv_/status/1621145668101484546)
 - [@GaelBreton: Here’s exactly how you can find low-competition long-tail keywords using ChatGPT.](https://twitter.com/GaelBreton/status/1620421723874299914)
 - [@ahrefs: "Our blog ranks on the first page of Google for >13,600 keywords--and using these tips helped us get there."](https://twitter.com/ahrefs/status/1610123817447219201)
 - [@fatjoedavies: The fastest and most effective way to increase organic traffic?](https://twitter.com/fatjoedavies/status/1546438161957535751)
