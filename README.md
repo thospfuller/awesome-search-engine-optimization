@@ -14,6 +14,7 @@ If you find this site to be useful, please star and/or watch it. If you have an 
 - [Long-tail Keywords: What They Are and How to Get Search Traffic From Them](https://ahrefs.com/blog/long-tail-keywords/)
 
 # Link Building Strategies and Backlinking Ideas
+- [Search Engine Journal: Reciprocal Links: Do They Help Or Hurt Your SEO? Reciprocal link building isn't bad for SEO, but only if you do it right. Learn the right and wrong ways to build reciprocal links.](https://www.searchenginejournal.com/link-building-guide/reciprocal-links/)
 - [How to Perform a Competitor Link Analysis in 3 Steps](https://ahrefs.com/blog/competitor-backlink-analysis/) "A competitor link analysis is an assessment of the link profiles of major competitors where you look at their link building strategies to gain insights. Implementing some of the same strategies in your own link building can lead to higher rankings in search engines and increased business outcomes."
 - [11 Creative (But 100% White Hat!) Ways to Earn Backlinks in 2022](https://blog.hubspot.com/marketing/backlink-strategies)
 - [Help a Reporter Out (HARO)](https://www.helpareporter.com/), see also [How to Get Backlinks: 11 Strategies](https://www.semrush.com/blog/how-to-get-backlinks/)
