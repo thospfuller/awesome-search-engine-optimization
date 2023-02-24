@@ -111,7 +111,7 @@ If you find this site to be useful, please star and/or watch it. If you have an 
 - [Local SERP Checker: Check Google SERPs for any keyword. View localized search results for any country, city or ZIP code on Google and Google Maps.](https://www.brightlocal.com/local-search-results-checker/)
 
 # SEO Tools
-- [CookUp.ai: Discover AI apps for every usecase and 10X your creativity & productivity](https://cookup.ai/)
+- [CookUp.ai: Discover AI apps for every usecase and 10X your creativity & productivity](https://cookup.ai/apps/?q=SEO)
 - [Similarweb: Effortlessly Analyze Your Competitive Landscape](https://www.similarweb.com/)
 - [Google Trends](https://trends.google.com/) -- "Explore what the world is searching [for]".
 - [SEO Learning Center / On-Site SEO / Title Tag](https://moz.com/learn/seo/title-tag)
