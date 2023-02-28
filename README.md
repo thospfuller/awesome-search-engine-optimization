@@ -3,6 +3,10 @@
 
 A curated list of backlink, social signal opportunities, social media marketing, and referral traffic generation ideas.
 
+👍 If you write about Search Engine Optimization (SEO) or software development I'd really appreciate a _follow backlink_ to my personal website [thospfuller.com](https://thospfuller.com/) or any post on it -- I've included an example below.
+
+<a href="https://thospfuller.com/">thospfuller.com</a>
+
 If you find this site to be useful, please star and/or watch it. If you have an idea not included here, pull requests are welcomed!
 
 # General Search Engine Optimization (SEO) Articles
