@@ -17,6 +17,7 @@ If you find this site to be useful, please star and/or watch it. If you have an 
 - [Learn About The Benefits Of Being In The Top 100 Best Headlines On The Internet Now!](https://thospfuller.com/2022/11/10/learn-about-the-benefits-of-being-in-the-top-100-best-headlines-on-the-internet/)
 
 # Link Building Strategies and Backlinking Ideas
+- [Backlinko: Link Bait / linkbait](https://backlinko.com/hub/seo/linkbait) "the process of creating content designed to attract backlinks. Common types of Link Bait content include controversial content, data, guides and newsworthy pieces."
 - [Search Engine Journal: Reciprocal Links: Do They Help Or Hurt Your SEO? Reciprocal link building isn't bad for SEO, but only if you do it right. Learn the right and wrong ways to build reciprocal links.](https://www.searchenginejournal.com/link-building-guide/reciprocal-links/)
 - [How to Perform a Competitor Link Analysis in 3 Steps](https://ahrefs.com/blog/competitor-backlink-analysis/) "A competitor link analysis is an assessment of the link profiles of major competitors where you look at their link building strategies to gain insights. Implementing some of the same strategies in your own link building can lead to higher rankings in search engines and increased business outcomes."
 - [11 Creative (But 100% White Hat!) Ways to Earn Backlinks in 2022](https://blog.hubspot.com/marketing/backlink-strategies)
