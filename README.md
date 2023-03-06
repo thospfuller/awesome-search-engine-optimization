@@ -173,6 +173,7 @@ If you find this site to be useful, please star and/or watch it. If you have an 
 - [Brodie Clark](https://twitter.com/brodieseo)
 
 # SEO Threads on Twitter
+- [@NicheSiteLady: One of my favourite ways to use ChatGPT is for keyword research...](https://twitter.com/NicheSiteLady/status/1632669741348208642)
 - [@nichegrades: How to write well-structured blog posts.](https://twitter.com/nichegrades/status/1628901763175661568)
 - [@AbdelrhmnHenedy: A real data-driven approach to Semantic SEO 🧵 (Practical step-by-step thread)](https://twitter.com/AbdelrhmnHenedy/status/1626588292870459392)
 - [@Nick_zv_: 10 Link-Building Tactics That REALLY Work 🚀](https://twitter.com/Nick_zv_/status/1621145668101484546)
