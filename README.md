@@ -3,9 +3,11 @@
 
 A curated list of backlink, social signal opportunities, social media marketing, and referral traffic generation ideas.
 
-👍 If you write about Search Engine Optimization (SEO) or software development I'd really appreciate a _follow backlink_ to my personal website [thospfuller.com](https://thospfuller.com/) or any post on it.
+🔗 If you write about Search Engine Optimization (SEO) or software development I'd really appreciate a _follow backlink_ to my personal website [thospfuller.com](https://thospfuller.com/) or any post on it. 🔗
 
-If you find this site to be useful, please star and/or watch it. If you have an idea not included here, pull requests are welcomed!
+⭐ If you find this site to be useful, please star and/or watch it. ⭐
+
+👍 If you have an idea not included here, pull requests are welcomed! 👍
 
 # General Search Engine Optimization (SEO) Articles
 - [John Mueller Of Google: SEO Lives & Dies With Consistency](https://www.seroundtable.com/google-seo-lives-dies-with-consistency-31319.html) "In 2015, John Mueller said this at SMX conference. He said his top SEO advice is be consistent. He reiterated it again in 2019 and 2018 and numerous times before and after this."
@@ -171,6 +173,13 @@ If you find this site to be useful, please star and/or watch it. If you have an 
 - [Cyrus Shepard](https://twitter.com/CyrusShepard)
 - [Shaun Anderson](https://twitter.com/Hobo_Web)
 - [Brodie Clark](https://twitter.com/brodieseo)
+- [Matt Diggity](https://twitter.com/mattdiggityseo)
+- [Ryan Stewart](https://twitter.com/ryanwashere)
+- [Nathan Gotch](https://twitter.com/nathangotch)
+- [Charles Floate](https://twitter.com/Charles_SEO)
+- [Ryan Darani](https://twitter.com/SearchForRyan)
+- [Brian Dean](https://twitter.com/BrianEDean)
+- [Jacky Chou](https://twitter.com/indexsy)
 
 # SEO Threads on Twitter
 - [@NicheSiteLady: One of my favourite ways to use ChatGPT is for keyword research...](https://twitter.com/NicheSiteLady/status/1632669741348208642)
