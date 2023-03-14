@@ -19,6 +19,9 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Learn About The Benefits Of Being In The Top 100 Best Headlines On The Internet Now!](https://thospfuller.com/2022/11/10/learn-about-the-benefits-of-being-in-the-top-100-best-headlines-on-the-internet/)
 
 # Link Building Strategies and Backlinking Ideas
+- [@RyanJones: My best backlink secret?](https://twitter.com/RyanJones/status/1635662027002638336)
+- [@Nick_zv_: Want to build a LOT of backlinks fast?](https://twitter.com/Nick_zv_/status/1635657034338287616)
+- [@Nick_zv_: Your competitor has 2,000 backlinks...](https://twitter.com/Nick_zv_/status/1635626081142325249)
 - [Pet niche statistics backlink strategy using Ahrefs](https://twitter.com/Ldnbox/status/1524642256996741120)
 - [Backlinko: Link Bait / linkbait](https://backlinko.com/hub/seo/linkbait) "the process of creating content designed to attract backlinks. Common types of Link Bait content include controversial content, data, guides and newsworthy pieces."
 - [Search Engine Journal: Reciprocal Links: Do They Help Or Hurt Your SEO? Reciprocal link building isn't bad for SEO, but only if you do it right. Learn the right and wrong ways to build reciprocal links.](https://www.searchenginejournal.com/link-building-guide/reciprocal-links/)
