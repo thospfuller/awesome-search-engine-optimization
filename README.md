@@ -185,6 +185,9 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Brian Dean](https://twitter.com/BrianEDean)
 - [Jacky Chou](https://twitter.com/indexsy)
 
+# SEO Posts on LinkedIn
+- [Andrew Holland: 17 SEO Techniques that Work.](https://www.linkedin.com/posts/andrew-holland-seo_seo-activity-7045043708039176194-4b64/)
+
 # SEO Threads on Twitter
 - [@Nick_zv_: 15 tips to write SEO content that ranks every time.](https://twitter.com/Nick_zv_/status/1638887573644013568)
 - [@NicheSiteLady: One of my favourite ways to use ChatGPT is for keyword research...](https://twitter.com/NicheSiteLady/status/1632669741348208642)
