@@ -189,6 +189,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Andrew Holland: 17 SEO Techniques that Work.](https://www.linkedin.com/posts/andrew-holland-seo_seo-activity-7045043708039176194-4b64/)
 
 # SEO Threads on Twitter
+- [@SEOKeval: If you don't understand search intent, you'll never rank in Google.](https://twitter.com/SEOKeval/status/1639668175502561280)
 - [@Nick_zv_: 15 tips to write SEO content that ranks every time.](https://twitter.com/Nick_zv_/status/1638887573644013568)
 - [@NicheSiteLady: One of my favourite ways to use ChatGPT is for keyword research...](https://twitter.com/NicheSiteLady/status/1632669741348208642)
 - [@nichegrades: How to write well-structured blog posts.](https://twitter.com/nichegrades/status/1628901763175661568)
