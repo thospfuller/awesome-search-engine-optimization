@@ -189,6 +189,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Andrew Holland: 17 SEO Techniques that Work.](https://www.linkedin.com/posts/andrew-holland-seo_seo-activity-7045043708039176194-4b64/)
 
 # SEO Threads on Twitter
+- [@iannuttall: Writing more content around the long-tail keywords you already rank for can 10x your traffic.](https://twitter.com/iannuttall/status/1643246625442222087)
 - [@NicheRanger: This is what you DON'T want to see in your Search Console reports: Many impressions but few clicks.](https://twitter.com/NicheRanger/status/1639960837094875138)
 - [@SEOKeval: If you don't understand search intent, you'll never rank in Google.](https://twitter.com/SEOKeval/status/1639668175502561280)
 - [@Nick_zv_: 15 tips to write SEO content that ranks every time.](https://twitter.com/Nick_zv_/status/1638887573644013568)
