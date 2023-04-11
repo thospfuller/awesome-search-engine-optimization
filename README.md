@@ -23,6 +23,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [@Nick_zv_: Want to build a LOT of backlinks fast?](https://twitter.com/Nick_zv_/status/1635657034338287616)
 - [@Nick_zv_: Your competitor has 2,000 backlinks...](https://twitter.com/Nick_zv_/status/1635626081142325249)
 - [Pet niche statistics backlink strategy using Ahrefs](https://twitter.com/Ldnbox/status/1524642256996741120)
+- [@Nick_zv_: These pages were ENGINEERED to drive thousands of backlinks.](https://twitter.com/Nick_zv_/status/1645772943824412672)
 - [Backlinko: Link Bait / linkbait](https://backlinko.com/hub/seo/linkbait) "the process of creating content designed to attract backlinks. Common types of Link Bait content include controversial content, data, guides and newsworthy pieces."
 - [Search Engine Journal: Reciprocal Links: Do They Help Or Hurt Your SEO? Reciprocal link building isn't bad for SEO, but only if you do it right. Learn the right and wrong ways to build reciprocal links.](https://www.searchenginejournal.com/link-building-guide/reciprocal-links/)
 - [How to Perform a Competitor Link Analysis in 3 Steps](https://ahrefs.com/blog/competitor-backlink-analysis/) "A competitor link analysis is an assessment of the link profiles of major competitors where you look at their link building strategies to gain insights. Implementing some of the same strategies in your own link building can lead to higher rankings in search engines and increased business outcomes."
