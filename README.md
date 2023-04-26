@@ -19,6 +19,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Learn About The Benefits Of Being In The Top 100 Best Headlines On The Internet Now!](https://thospfuller.com/2022/11/10/learn-about-the-benefits-of-being-in-the-top-100-best-headlines-on-the-internet/)
 
 # Link Building Strategies and Backlinking Ideas
+- [@Nick_zv_: No-BS Guide to Link-Building](https://twitter.com/Nick_zv_/status/1651208757190483968)
 - [Andrew Holland on LinkedIn: 19 Secrets to Generating Massive Website Traffic](https://www.linkedin.com/posts/andrew-holland-seo_seo-activity-7054354929213161472-gGeg)
 - [@ericlancheres: Here are some of my favorite link baits](https://twitter.com/ericlancheres/status/1648027963651129347)
 - [@RyanJones: My best backlink secret?](https://twitter.com/RyanJones/status/1635662027002638336)
