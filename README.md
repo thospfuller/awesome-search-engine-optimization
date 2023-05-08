@@ -150,6 +150,9 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Local SEO: A Simple (But Complete) Guide](https://ahrefs.com/blog/local-seo/) See quote re Places "there will be an option to import data from Google My Business."
 - [How To Dominate The Google Snack Pack & Local SEO](https://youtu.be/ZeTXEwt6nRo)
 
+# Image SEO
+- [@hridoyreh: Several tips pertaining to Image SEO](https://twitter.com/hridoyreh/status/1655573377451450375)
+
 # Keyword Research Tools
 - [WebFX: KeywordsFX Free Keyword Suggestion Tool](https://www.webfx.com/tools/keywordsfx/)
 
