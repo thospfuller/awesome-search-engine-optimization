@@ -86,7 +86,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - Convert your content into a YouTube educational video and submit it to the [FreeCodeCamp.org channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ), which has ~2.4mm subscribers.
 - Present your content via [EventBright](https://www.eventbrite.com/) (TBC if this idea has merit)
 - [AWS IQ](https://iq.aws.amazon.com/) members can add links to other sites in their biography -- you can see an example [in my AWS IQ profile](https://iq.aws.amazon.com/e/thospfuller).
-- In the "About" section of a project on GitHub you can add a link to your website or to the project website if it's hosted elsewhere.
+- In the "About" section of a project on GitHub you can add a link to your website or to the project website if it's hosted elsewhere -- see also [How do I get a dofollow backlink from GitHub?](https://www.quora.com/How-do-I-get-a-dofollow-backlink-from-GitHub).
 - [BuiltIn](https://builtin.com/) -- "Built In is a national community united around a shared passion for tech, offering content and career opportunities, whether you want to work at home or in office." -- see, for example, [companies built in Washington, DC](https://builtin.com/washington-dc).
 
 # Guest Posting, Writing, Blogging, Syndication Ideas
