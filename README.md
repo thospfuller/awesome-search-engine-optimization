@@ -19,6 +19,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Learn About The Benefits Of Being In The Top 100 Best Headlines On The Internet Now!](https://thospfuller.com/2022/11/10/learn-about-the-benefits-of-being-in-the-top-100-best-headlines-on-the-internet/)
 
 # Link Building Strategies and Backlinking Ideas
+- [@hridoyreh: best-of posts](https://twitter.com/hridoyreh/status/1657322642205179905)
 - [pressrelease.com: paid service, see pricing](https://www.pressrelease.com/)
 - [@hridoyreh: Dead links on Wikipedia](https://twitter.com/hridoyreh/status/1656234792357355521)
 - [terkel.io: Grow your Brand Answer Questions, Get Featured in Articles.](https://terkel.io/) see also [Markitors: Introducing Terkel](https://markitors.com/introducing-terkel/)
