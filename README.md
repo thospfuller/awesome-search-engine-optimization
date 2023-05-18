@@ -20,6 +20,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # Link Building Strategies and Backlinking Ideas
 - [@hridoyreh: best-of posts](https://twitter.com/hridoyreh/status/1657322642205179905)
+- [@hridoyreh: X vs. Y posts](https://twitter.com/hridoyreh/status/1659133817515560960)
 - [pressrelease.com: paid service, see pricing](https://www.pressrelease.com/)
 - [@hridoyreh: Dead links on Wikipedia](https://twitter.com/hridoyreh/status/1656234792357355521)
 - [terkel.io: Grow your Brand Answer Questions, Get Featured in Articles.](https://terkel.io/) see also [Markitors: Introducing Terkel](https://markitors.com/introducing-terkel/)
