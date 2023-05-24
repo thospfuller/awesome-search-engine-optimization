@@ -10,6 +10,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 👍 If you have an idea not included here, pull requests are welcomed! 👍
 
 # General Search Engine Optimization (SEO) Articles
+- [@hridoyreh: 10 best SEO Case Studies.](https://twitter.com/hridoyreh/status/1660898339414765568)
 - [John Mueller Of Google: SEO Lives & Dies With Consistency](https://www.seroundtable.com/google-seo-lives-dies-with-consistency-31319.html) "In 2015, John Mueller said this at SMX conference. He said his top SEO advice is be consistent. He reiterated it again in 2019 and 2018 and numerous times before and after this."
 - [Consistency Is King In SEO](https://searchengineland.com/consistency-is-king-in-seo-52171) While this article was written in 2010, it's still very much worth a read: "In SEO, the small stuff truly matters, and consistency is especially powerful. At the enterprise level things like page titles, internal links and duplicate content may seem almost trivial compared to the overall complexity of the site. But they are hugely important, and when well-optimized in sum can literally make or break a site’s SEO potential."
 - [Google Search Essentials](https://developers.google.com/search/docs/essentials) -- "The Google Search Essentials make up the core parts of what makes your web-based content (web pages, images, videos, or other publicly-available material that Google finds on the web) eligible to appear and perform well on Google Search"
