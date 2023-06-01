@@ -130,6 +130,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Local SERP Checker: Check Google SERPs for any keyword. View localized search results for any country, city or ZIP code on Google and Google Maps.](https://www.brightlocal.com/local-search-results-checker/)
 
 # SEO Tools
+- [SERP Preview: Preview how your page could look in search results.](https://seotoolbelt.co/tools/serp-preview/)
 - [CookUp.ai: Discover AI apps for every usecase and 10X your creativity & productivity](https://cookup.ai/apps/?q=SEO)
 - [Similarweb: Effortlessly Analyze Your Competitive Landscape](https://www.similarweb.com/)
 - [Google Trends](https://trends.google.com/) -- "Explore what the world is searching [for]".
