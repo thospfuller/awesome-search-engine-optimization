@@ -19,7 +19,8 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Long-tail Keywords: What They Are and How to Get Search Traffic From Them](https://ahrefs.com/blog/long-tail-keywords/)
 - [Learn About The Benefits Of Being In The Top 100 Best Headlines On The Internet Now!](https://thospfuller.com/2022/11/10/learn-about-the-benefits-of-being-in-the-top-100-best-headlines-on-the-internet/)
 
-# Link Building Strategies and Backlinking Ideas
+# Link Building Strategies, Internal Linking, and Backlinking Ideas
+- [@seochatterblog: 10 Internal Linking Best Practices for SEO](https://twitter.com/seochatterblog/status/1668243638298484738)
 - [@hridoyreh: best-of posts](https://twitter.com/hridoyreh/status/1657322642205179905)
 - [@hridoyreh: X vs. Y posts](https://twitter.com/hridoyreh/status/1659133817515560960)
 - [pressrelease.com: paid service, see pricing](https://www.pressrelease.com/)
