@@ -1,7 +1,7 @@
 # Awesome Search Engine Optimization Ideas [![License](http://img.shields.io/badge/license-Apache-brightgreen.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.txt) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![LinkedIn](images/linkedin_32.png)](https://www.linkedin.com/in/thomasfuller/) [![Twitter](images/twitter_32.png)](https://twitter.com/ThosPFuller) [![GitHub](images/github_32.png)](https://github.com/thospfuller) [![Email](images/email_32.png)](http://eepurl.com/b5jPPj) [![Coherent Logic Limited](images/CLSocialIconDarkBlue.png)](https://coherentlogic.com?utm_source=abl_on_gh) [<img src="images/meetupcom_social_media_circled_network_64x64.png" height="32" width="32">](https://www.meetup.com/Washington-DC-CTO-Meetup-Group/)
 
-A curated list of backlink, social signal opportunities, social media marketing, and referral traffic generation ideas.
+A curated list of backlink, social signal opportunities, social media marketing, referral traffic generation, and writing ideas.
 
 🔗 If you write about Search Engine Optimization (SEO) or software development I'd really appreciate a _follow backlink_ to my personal website [thospfuller.com](https://thospfuller.com/) or any post on it. 🔗
 
@@ -236,6 +236,9 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # SEO-Related Websites
 - [Search Engine Roundtable](https://www.seroundtable.com/)
+
+# Writing Ideas
+- [Here are 7 storytelling tricks to hook your reader](https://twitter.com/writes_eve/status/1667939987650691072)
 
 # See Also
 - [Google Search Console: How Accurate is the Average Position Metric?](https://www.searchenginejournal.com/google-search-console-how-accurate-is-the-average-position-metric/403368/) -- "We learn from Mueller that the average position metric is based on real data. It’s a reliable measurement, even if it doesn’t always match up with what site owners see when they check their own ranking positions."
