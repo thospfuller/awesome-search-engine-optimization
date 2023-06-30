@@ -231,6 +231,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 # Other Tools
 - [tiny jpg](https://tinyjpg.com/) -- Don't assume that images are compressed prior to uploading them. Uncompressed images can place a significant drag on a web server so it will behoove you to compress the image before uploading it.
 - [15 Awesome SEO Competitor Analysis Tools](https://mention.com/en/blog/competitor-seo-tools/)
+- [@serpinsider: A simple way to find solid expired domains for your new projects or for resale](https://twitter.com/serpinsider/status/1674546788840407040)
 
 # SEO Communities
 - [BigSEO Slack Community Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfRAnvSg83SQD8v6zYn69WPw_1SJXdPzr4YvT6jVs1KUH0zwA/viewform)
