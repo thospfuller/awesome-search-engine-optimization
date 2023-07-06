@@ -202,6 +202,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # SEO Posts on LinkedIn
 - [Andrew Holland: 17 SEO Techniques that Work.](https://www.linkedin.com/posts/andrew-holland-seo_seo-activity-7045043708039176194-4b64/)
+- [Andrew Holland: Paid vs Organic SERP CTR comparisons](https://www.linkedin.com/posts/andrew-holland-seo_understanding-the-discounting-effect-of-ppc-activity-7081556819227090945-WKHL)
 
 # SEO Threads on Twitter
 - [@iannuttall: Writing more content around the long-tail keywords you already rank for can 10x your traffic.](https://twitter.com/iannuttall/status/1643246625442222087)
