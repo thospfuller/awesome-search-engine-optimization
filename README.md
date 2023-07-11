@@ -229,6 +229,9 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [@shwnhll: "When I started my site 22 months ago, my dream goal was to make $500/month. It’s now making about $500/day. Dream bigger."](https://twitter.com/shwnhll/status/1577343861155840002)
 - [@harveymeale: A good 90% of my niche site income can be attributed to roundup articles (”best x for y”).](https://twitter.com/harveymeale/status/1678588189454499840)
 
+# SEO Case Studies
+- [@IvanPlanic: Niche site case study](https://twitter.com/IvanPlanic/status/1678724546474508289)
+
 # Artificial Intelligence (AI) / ChatGPT Prompts and SEO
 - [@tonythill: A simple ChatGPT and SEO tip for more search traffic using AI to generate other ways to say each part of an article's main keyword phrase.](https://twitter.com/tonythill/status/1676245995795935232)
 
