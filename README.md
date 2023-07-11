@@ -201,6 +201,12 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Ryan Darani](https://twitter.com/SearchForRyan)
 - [Brian Dean](https://twitter.com/BrianEDean)
 - [Jacky Chou](https://twitter.com/indexsy)
+- [Hasib Alic](https://twitter.com/HasibStrevio)
+- [Anne Moss](https://twitter.com/AnneMossYeys)
+- [Fat Stacks](https://twitter.com/FatStacksBlog)
+- [Tejas Rane](https://twitter.com/tejas3732)
+- [VictoriaSEO](https://twitter.com/VictoriaSEO_)
+- [Niche Site Lady](https://twitter.com/NicheSiteLady)
 
 # SEO Posts on LinkedIn
 - [Andrew Holland: 17 SEO Techniques that Work.](https://www.linkedin.com/posts/andrew-holland-seo_seo-activity-7045043708039176194-4b64/)
