@@ -246,6 +246,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [@alexgarcia_atx: "Here are the 5 ways you should categorize your SEO-optimized articles for maximum ROI"](https://twitter.com/alexgarcia_atx/status/1581670860472975361)
 - [@KaiCromwell: Topical Authority](https://twitter.com/KaiCromwell/status/1612501969234497543)
 - [@acquireconvert: "Statistics posts are such a killer way to get high quality #backlinks for #SEO"](https://twitter.com/acquireconvert/status/1613188992102502407)
+- [@joehall: How do you typically handle Category/Tag archive pages for SEO?](https://twitter.com/joehall/status/1680993465109295105)
 
 # Niche Site-Related Threads on Twitter
 - [@shwnhll: "When I started my site 22 months ago, my dream goal was to make $500/month. It’s now making about $500/day. Dream bigger."](https://twitter.com/shwnhll/status/1577343861155840002)
