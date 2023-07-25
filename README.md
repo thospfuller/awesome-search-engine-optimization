@@ -20,6 +20,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Learn About The Benefits Of Being In The Top 100 Best Headlines On The Internet Now!](https://thospfuller.com/2022/11/10/learn-about-the-benefits-of-being-in-the-top-100-best-headlines-on-the-internet/)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
+- [@Adoubleagent: Nine public internal linking case studies from SEOs to help SEO professionals identify what works.](https://twitter.com/Adoubleagent/status/1683758102095757312)
 - [@seochatterblog: 10 Internal Linking Best Practices for SEO](https://twitter.com/seochatterblog/status/1668243638298484738)
 - [@hridoyreh: best-of posts](https://twitter.com/hridoyreh/status/1657322642205179905)
 - [@hridoyreh: X vs. Y posts](https://twitter.com/hridoyreh/status/1659133817515560960)
