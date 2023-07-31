@@ -105,7 +105,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # Technical Search Engine Optimization (Technical SEO) Articles and Videos
 - [Why is Technical SEO Important?](https://thospfuller.com/2023/01/25/why-is-technical-seo-important/) -- "Learn about the benefits that Technical SEO can deliver to your business website or digital marketing campaign."
-- [Technical Search Engine Optimization (Technical SEO) Crash Course](https://thospfuller.com/2021/03/22/technical-search-engine-optimization-crash-course/)
+- [Compare And Contrast On Page SEO Vs Technical SEO Now!](https://thospfuller.com/2023/05/31/on-page-seo-vs-technical-seo/)
 
 # Technical Search Engine Optimization (Technical SEO) Testing Tools
 - [WebPagetest.org](https://www.webpagetest.org/) -- see also [WPO Foundation on GitHub](https://github.com/WPO-Foundation)
