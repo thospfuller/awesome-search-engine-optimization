@@ -20,6 +20,8 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Learn About The Benefits Of Being In The Top 100 Best Headlines On The Internet Now!](https://thospfuller.com/2022/11/10/learn-about-the-benefits-of-being-in-the-top-100-best-headlines-on-the-internet/)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
+- [Which Question-Optimized Queries Perform Well?](https://thospfuller.com/2021/04/19/question-based-keywords/#which-question-optimized-queries-perform-well) -- this section talks about building a backlink magnet using "How To" style questions.
+- [Guess which Content Types Get the Most Backlinks?](https://www.spyfu.com/blog/which-types-of-content-gain-the-most-backlinks-original-data/)
 - [@Adoubleagent: Nine public internal linking case studies from SEOs to help SEO professionals identify what works.](https://twitter.com/Adoubleagent/status/1683758102095757312)
 - [@seochatterblog: 10 Internal Linking Best Practices for SEO](https://twitter.com/seochatterblog/status/1668243638298484738)
 - [@hridoyreh: best-of posts](https://twitter.com/hridoyreh/status/1657322642205179905)
