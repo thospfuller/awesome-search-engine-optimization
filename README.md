@@ -233,6 +233,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Andrew Holland: Paid vs Organic SERP CTR comparisons](https://www.linkedin.com/posts/andrew-holland-seo_understanding-the-discounting-effect-of-ppc-activity-7081556819227090945-WKHL)
 
 # SEO Threads on Twitter
+- [@TimStodz: 8 ingredients for 8-figure websites](https://twitter.com/TimStodz/status/1691801560362234009)
 - [@iannuttall: Writing more content around the long-tail keywords you already rank for can 10x your traffic.](https://twitter.com/iannuttall/status/1643246625442222087)
 - [@NicheRanger: This is what you DON'T want to see in your Search Console reports: Many impressions but few clicks.](https://twitter.com/NicheRanger/status/1639960837094875138)
 - [@SEOKeval: If you don't understand search intent, you'll never rank in Google.](https://twitter.com/SEOKeval/status/1639668175502561280)
