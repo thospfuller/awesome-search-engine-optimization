@@ -253,7 +253,8 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [@acquireconvert: "Statistics posts are such a killer way to get high quality #backlinks for #SEO"](https://twitter.com/acquireconvert/status/1613188992102502407)
 - [@joehall: How do you typically handle Category/Tag archive pages for SEO?](https://twitter.com/joehall/status/1680993465109295105)
 
-# Niche Site-Related Threads on Twitter
+# Niche Site-Related Threads
+- [How I Built A Site For Less Than $2000 Which Now Makes $1,000/month](https://www.reddit.com/r/juststart/comments/mcaodn/how_i_built_a_site_for_less_than_2000_which_now/)
 - [@shwnhll: "When I started my site 22 months ago, my dream goal was to make $500/month. It’s now making about $500/day. Dream bigger."](https://twitter.com/shwnhll/status/1577343861155840002)
 - [@harveymeale: A good 90% of my niche site income can be attributed to roundup articles (”best x for y”).](https://twitter.com/harveymeale/status/1678588189454499840)
 
