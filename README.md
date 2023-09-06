@@ -233,6 +233,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Andrew Holland: Paid vs Organic SERP CTR comparisons](https://www.linkedin.com/posts/andrew-holland-seo_understanding-the-discounting-effect-of-ppc-activity-7081556819227090945-WKHL)
 
 # SEO Threads on Twitter
+- [@dannypostmaa: I've just removed all AI-generated articles from my website.](https://twitter.com/dannypostmaa/status/1699375720030753020) -- This has been my experience as well: Content that’s been mostly generated via AI has, generally speaking, not performed well.
 - [@TimStodz: 8 ingredients for 8-figure websites](https://twitter.com/TimStodz/status/1691801560362234009)
 - [@iannuttall: Writing more content around the long-tail keywords you already rank for can 10x your traffic.](https://twitter.com/iannuttall/status/1643246625442222087)
 - [@NicheRanger: This is what you DON'T want to see in your Search Console reports: Many impressions but few clicks.](https://twitter.com/NicheRanger/status/1639960837094875138)
