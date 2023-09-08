@@ -232,6 +232,15 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Andrew Holland: 17 SEO Techniques that Work.](https://www.linkedin.com/posts/andrew-holland-seo_seo-activity-7045043708039176194-4b64/)
 - [Andrew Holland: Paid vs Organic SERP CTR comparisons](https://www.linkedin.com/posts/andrew-holland-seo_understanding-the-discounting-effect-of-ppc-activity-7081556819227090945-WKHL)
 
+# SEO Experts on LinkedIn
+- [Jorge Castro](https://www.linkedin.com/in/growthmarketing-se/)
+- [Kapil Ochani](https://www.linkedin.com/in/kapilochani/)
+- [Dmytro Sokhach](https://www.linkedin.com/in/dmytro-sokhach-b13aaa75/)
+- [Alex Savy](https://www.linkedin.com/in/alex-savy/)
+- [Oleg Galeev](https://www.linkedin.com/in/ogaleev/)
+- [Aaron A.](https://www.linkedin.com/in/link-builder-aaron/)
+- [Jake Ward](https://www.linkedin.com/in/jakezward/)
+
 # SEO Threads on Twitter
 - [@dannypostmaa: I've just removed all AI-generated articles from my website.](https://twitter.com/dannypostmaa/status/1699375720030753020) -- This has been my experience as well: Content that’s been mostly generated via AI has, generally speaking, not performed well.
 - [@TimStodz: 8 ingredients for 8-figure websites](https://twitter.com/TimStodz/status/1691801560362234009)
