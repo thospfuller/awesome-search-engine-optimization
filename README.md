@@ -17,7 +17,6 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Why Does Your Search Traffic Suck? The 7 Most Likely Reasons - Moz](https://moz.com/blog/why-does-your-search-traffic-suck-the-6-most-likely-reasons)
 - [Holy Grail SEO: High Volume, Low Competition Keywords](https://www.searchenginejournal.com/keyword-competition/313815/) -- "Instead of targeting keywords or topics that have high volume, we need to target keywords and topics that we actually have a chance to rank for, making the best use of our time and SEO efforts."
 - [Long-tail Keywords: What They Are and How to Get Search Traffic From Them](https://ahrefs.com/blog/long-tail-keywords/)
-- [Learn About The Benefits Of Being In The Top 100 Best Headlines On The Internet Now!](https://thospfuller.com/2022/11/10/learn-about-the-benefits-of-being-in-the-top-100-best-headlines-on-the-internet/)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
 - [@serpinsider: 3 ways to find expired domains for backlinks, new niche sites, or just to flip for profit](https://twitter.com/serpinsider/status/1690052507765293056)
@@ -108,7 +107,6 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # Technical Search Engine Optimization (Technical SEO) Articles and Videos
 - [Why is Technical SEO Important?](https://thospfuller.com/2023/01/25/why-is-technical-seo-important/) -- "Learn about the benefits that Technical SEO can deliver to your business website or digital marketing campaign."
-- [Compare And Contrast On Page SEO Vs Technical SEO Now!](https://thospfuller.com/2023/05/31/on-page-seo-vs-technical-seo/)
 - [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/)
 
 # Technical Search Engine Optimization (Technical SEO) Testing Tools
@@ -302,7 +300,6 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [How to Find Who Links to Your Website (and What to Do Next)](https://ahrefs.com/blog/who-links-to-my-site/)
 - [9 EASY Link Building Strategies (That ANYONE Can Use)](https://ahrefs.com/blog/link-building-strategies/)
 - [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization)
-- [Other articles pertaining to SEO can be found at ThosPFuller.com](https://thospfuller.com/category/seo/)
 - [How to Create SEO Friendly URLs](https://neilpatel.com/blog/seo-urls/)
 - [15 Smart Ways to Find Guest Posting Opportunities](https://moz.com/ugc/15-smart-ways-to-find-guest-posting-opportunities)
 - [How to Build High-Quality Backlinks When Nobody Knows Your Name](http://neilpatel.com/blog/build-high-quality-backlinks/)
