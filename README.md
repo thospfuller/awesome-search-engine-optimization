@@ -241,6 +241,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Jake Ward](https://www.linkedin.com/in/jakezward/)
 
 # SEO Threads on Twitter
+- [Amateurs focus on getting traffic from top of the funnel keywords with high search volume they find on tools, professionals focus on getting conversions from bottom of the funnel keywords with low to no search volume they find on Reddit.](https://twitter.com/theandreboso/status/1701238108757377263)
 - [@dannypostmaa: I've just removed all AI-generated articles from my website.](https://twitter.com/dannypostmaa/status/1699375720030753020) -- This has been my experience as well: Content that’s been mostly generated via AI has, generally speaking, not performed well.
 - [@TimStodz: 8 ingredients for 8-figure websites](https://twitter.com/TimStodz/status/1691801560362234009)
 - [@iannuttall: Writing more content around the long-tail keywords you already rank for can 10x your traffic.](https://twitter.com/iannuttall/status/1643246625442222087)
