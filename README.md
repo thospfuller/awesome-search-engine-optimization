@@ -244,6 +244,17 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Liam Fallen](https://www.linkedin.com/in/technical-seo/)
 - [Taylor Scher](https://www.linkedin.com/in/taylorjosephscher/)
 - [Anna York](https://www.linkedin.com/in/anna-york-seo/)
+- [Lily Ray](https://www.linkedin.com/in/lily-ray-44755615/)
+- [Ross Hudgens](https://www.linkedin.com/in/rosshudgens/)
+- [Louis Smith](https://www.linkedin.com/in/louis-smith-b968a5b5/)
+- [Manish Chauhan](https://www.linkedin.com/in/manish1485/)
+- [Devendra Saini](https://www.linkedin.com/in/devendrasaini/)
+- [Nitin Manchanda](https://www.linkedin.com/in/nitman/)
+- [Daniel Foley Carter](https://www.linkedin.com/in/daniel-foley-assertive/)
+- [Nik Ranger](https://www.linkedin.com/in/nik-ranger/)
+- [Kristina Azarenko](https://www.linkedin.com/in/kristinaazarenko/)
+- [Steve Toth](https://www.linkedin.com/in/stevetothjr/)
+- [Andrew Holland](https://www.linkedin.com/in/andrew-holland-seo/)
 
 # SEO Threads on Twitter
 - [@nichealchemist: Forum sniping on Reddit](https://twitter.com/nichealchemist/status/1701727868252762260)
