@@ -264,6 +264,18 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Eric Reinach](https://www.linkedin.com/in/eric-reinach/)
 - [Zoe Ashbridge](https://www.linkedin.com/in/zoeashbridge/)
 - [Jagadeesh J.](https://www.linkedin.com/in/jagadeesh-j/)
+- [Umar Tazkeer](https://www.linkedin.com/in/umartazkeer/)
+- [Chris Countey](https://www.linkedin.com/in/chriscountey/)
+- [David Monaghan](https://www.linkedin.com/in/david-monaghan-seo-specialist/)
+- [Tom Critchlow](https://www.linkedin.com/in/tomcritchlow/)
+- [Tim Hanson](https://www.linkedin.com/in/tihanson/)
+- [Alex Galinos](https://www.linkedin.com/in/alexgalinos/)
+- [Nathan Gotch](https://www.linkedin.com/in/nathangotch/)
+- [Cyrus S.](https://www.linkedin.com/in/cyrusshepard/)
+- [Samantha North](https://www.linkedin.com/in/northsamantha/)
+- [Brian Dean](https://www.linkedin.com/in/brianedean/)
+- [Gordana Sretenovic](https://www.linkedin.com/in/gordanasretenovic923/)
+- [Nick Jordan](https://www.linkedin.com/in/nickfromseattle/)
 
 # SEO Threads on Twitter
 - [@nichealchemist: Forum sniping on Reddit](https://twitter.com/nichealchemist/status/1701727868252762260)
