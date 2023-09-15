@@ -239,6 +239,11 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Oleg Galeev](https://www.linkedin.com/in/ogaleev/)
 - [Aaron A.](https://www.linkedin.com/in/link-builder-aaron/)
 - [Jake Ward](https://www.linkedin.com/in/jakezward/)
+- [Connor Gillivan](https://www.linkedin.com/in/connorgillivan/)
+- [Peter Rota](https://www.linkedin.com/in/peterrota/)
+- [Liam Fallen](https://www.linkedin.com/in/technical-seo/)
+- [Taylor Scher](https://www.linkedin.com/in/taylorjosephscher/)
+- [Anna York](https://www.linkedin.com/in/anna-york-seo/)
 
 # SEO Threads on Twitter
 - [@nichealchemist: Forum sniping on Reddit](https://twitter.com/nichealchemist/status/1701727868252762260)
