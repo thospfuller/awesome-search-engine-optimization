@@ -260,6 +260,10 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Fery Kaszoni](https://www.linkedin.com/in/ferenczkaszoni/)
 - [Nick LeRoy](https://www.linkedin.com/in/nickleroyseo/)
 - [Eli Schwartz](https://www.linkedin.com/in/schwartze/)
+- [Aleyda Solís](https://www.linkedin.com/in/aleyda/)
+- [Eric Reinach](https://www.linkedin.com/in/eric-reinach/)
+- [Zoe Ashbridge](https://www.linkedin.com/in/zoeashbridge/)
+- [Jagadeesh J.](https://www.linkedin.com/in/jagadeesh-j/)
 
 # SEO Threads on Twitter
 - [@nichealchemist: Forum sniping on Reddit](https://twitter.com/nichealchemist/status/1701727868252762260)
