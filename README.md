@@ -19,7 +19,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Long-tail Keywords: What They Are and How to Get Search Traffic From Them](https://ahrefs.com/blog/long-tail-keywords/)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
-- [@webjuice_ie: How to get a dofollow backlink from Flickr (94 DR)](https://twitter.com/webjuice_ie/status/1705906605194166353)
+- [@webjuice_ie: How to get a dofollow backlink from Flickr (DR 94)](https://twitter.com/webjuice_ie/status/1705906605194166353)
 - [@serpinsider: 3 ways to find expired domains for backlinks, new niche sites, or just to flip for profit](https://twitter.com/serpinsider/status/1690052507765293056)
 - [Which Question-Optimized Queries Perform Well?](https://thospfuller.com/2021/04/19/question-based-keywords/#which-question-optimized-queries-perform-well) -- this section talks about building a backlink magnet using "How To" style questions.
 - [Guess which Content Types Get the Most Backlinks?](https://www.spyfu.com/blog/which-types-of-content-gain-the-most-backlinks-original-data/)
