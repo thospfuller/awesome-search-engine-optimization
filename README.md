@@ -279,6 +279,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Nick Jordan](https://www.linkedin.com/in/nickfromseattle/)
 
 # SEO Threads on Twitter
+- [@mich_adediran: Forget everything you've learned about how to use Alt text.](https://twitter.com/mich_adediran/status/1708843566846361753)
 - [@FeryKaszoni: This website published 20K pages in 2 months, generating 12 million organic traffic, and they make over £60K per month in passive income.](https://twitter.com/FeryKaszoni/status/1704241895616979093)
 - [@nichealchemist: Forum sniping on Reddit](https://twitter.com/nichealchemist/status/1701727868252762260)
 - [@theandreboso: Amateurs focus on getting traffic from top of the funnel keywords with high search volume they find on tools, professionals focus on getting conversions from bottom of the funnel keywords with low to no search volume they find on Reddit.](https://twitter.com/theandreboso/status/1701238108757377263)
