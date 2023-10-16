@@ -1,7 +1,7 @@
 # Awesome Search Engine Optimization Ideas [![License](http://img.shields.io/badge/license-Apache-brightgreen.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0.txt) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![LinkedIn](images/linkedin_32.png)](https://www.linkedin.com/in/thomasfuller/) [![Twitter](images/twitter_32.png)](https://twitter.com/ThosPFuller) [![GitHub](images/github_32.png)](https://github.com/thospfuller) [![Email](images/email_32.png)](http://eepurl.com/b5jPPj) [![Coherent Logic Limited](images/CLSocialIconDarkBlue.png)](https://coherentlogic.com?utm_source=abl_on_gh) [<img src="images/meetupcom_social_media_circled_network_64x64.png" height="32" width="32">](https://www.meetup.com/Washington-DC-CTO-Meetup-Group/)
 
-A curated list of backlink, social signal opportunities, social media marketing, referral traffic generation, and writing ideas.
+A curated list of backlink, social signal opportunities, social media marketing, referral traffic generation, writing ideas, and more.
 
 🤔 Do you need help with SEO? Visit [my website](https://thospfuller.com/) for more information and to schedule a meeting with me. 🔍
 
@@ -105,6 +105,17 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Google Podcasts](https://podcasts.google.com/)
 - [Show up in Google News](https://support.google.com/news/publisher-center/answer/9607025?hl=en)
 - [Bing PubHub](https://www.bing.com/webmasters/pubhub) -- Note that "[b]oth news and non-news supported!"; see also [Bing’s New PubHub Offers Millions Of New Site Visitors](https://www.searchenginejournal.com/bings-new-pubhub-offers-millions-of-new-site-visitors/437067/).
+
+# SEO Newsletters
+- [SEOFOMO](https://seofomo.co/)
+- [WTF is SEO?](https://www.seoforjournalism.com/)
+- [SEO Notebook](https://seonotebook.com/)
+- [Women in Tech SEO](https://www.womenintechseo.com/newsletter/)
+- [The SEO MBA](https://newsletter.seomba.com/about)
+- [Detailed](https://detailed.com/#newsletter)
+- [Search Engine Journal Newsletter](https://www.searchenginejournal.com/newsletter-sign-up/)
+- [Niche Pursuits](https://www.nichepursuits.com/join-newsletter/)
+- [SEO Jobs](https://www.seojobs.com/)
 
 # Technical Search Engine Optimization (Technical SEO) Articles and Videos
 - [Why is Technical SEO Important?](https://thospfuller.com/2023/01/25/why-is-technical-seo-important/) -- "Learn about the benefits that Technical SEO can deliver to your business website or digital marketing campaign."
