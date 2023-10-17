@@ -19,6 +19,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Long-tail Keywords: What They Are and How to Get Search Traffic From Them](https://ahrefs.com/blog/long-tail-keywords/)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
+- [How to use HARO](https://jaserodley.com/how-to-use-haro/)
 - [Write for the GoDaddy blog](https://ae.godaddy.com/blog/contribute/)
 - [@webjuice_ie: How to get a dofollow backlink from Flickr (DR 94)](https://twitter.com/webjuice_ie/status/1705906605194166353)
 - [@serpinsider: 3 ways to find expired domains for backlinks, new niche sites, or just to flip for profit](https://twitter.com/serpinsider/status/1690052507765293056)
