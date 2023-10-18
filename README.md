@@ -21,6 +21,10 @@ A curated list of backlink, social signal opportunities, social media marketing,
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
 - [Unveiling the Dark Art of Parasite SEO: Risks and Rewards](https://www.linkedin.com/pulse/unveiling-dark-art-parasite-seo-risks-rewards-azam-javed/)
 - [How to use HARO](https://jaserodley.com/how-to-use-haro/)
+- [featured.com / previously terkel](https://featured.com/)
+- [SourceBottle](https://www.sourcebottle.com/)
+- [Help A B2B Writer](https://helpab2bwriter.com/)
+- [HARO: Help A Reporter Out](https://www.helpareporter.com/)
 - [Write for the GoDaddy blog](https://ae.godaddy.com/blog/contribute/)
 - [@webjuice_ie: How to get a dofollow backlink from Flickr (DR 94)](https://twitter.com/webjuice_ie/status/1705906605194166353)
 - [@serpinsider: 3 ways to find expired domains for backlinks, new niche sites, or just to flip for profit](https://twitter.com/serpinsider/status/1690052507765293056)
