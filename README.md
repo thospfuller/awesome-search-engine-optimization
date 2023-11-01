@@ -19,6 +19,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Long-tail Keywords: What They Are and How to Get Search Traffic From Them](https://ahrefs.com/blog/long-tail-keywords/)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
+- [@FeryKaszoni: Link building plan for every budget](https://twitter.com/FeryKaszoni/status/1718893154743529799)
 - [Unveiling the Dark Art of Parasite SEO: Risks and Rewards](https://www.linkedin.com/pulse/unveiling-dark-art-parasite-seo-risks-rewards-azam-javed/)
 - [How to use HARO](https://jaserodley.com/how-to-use-haro/)
 - [featured.com / previously terkel](https://featured.com/)
