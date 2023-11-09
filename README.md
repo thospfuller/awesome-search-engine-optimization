@@ -300,6 +300,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Nick Jordan](https://www.linkedin.com/in/nickfromseattle/)
 
 # SEO Threads on Twitter
+- [@adcrookes: SEO Blog Outline Example](https://twitter.com/adcrookes/status/1722041565785301243)
 - [@Charles_SEO: Advanced SEO Techniques That Aren't Just Meaningless Industry Jargon, And Actually Mean or Do Something](https://twitter.com/Charles_SEO/status/1717866197696524613)
 - [@thepatwalls How Pat Walls built StarterStory.](https://twitter.com/thepatwalls/status/1716854579781144617)
 - [@mich_adediran: Forget everything you've learned about how to use Alt text.](https://twitter.com/mich_adediran/status/1708843566846361753)
