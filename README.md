@@ -19,6 +19,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Long-tail Keywords: What They Are and How to Get Search Traffic From Them](https://ahrefs.com/blog/long-tail-keywords/)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
+- [@SearchForRyan: Five things you HAVE to do to build internal links correctly](https://twitter.com/SearchForRyan/status/1722524766139990467)
 - [Articles with dead external links on Wikipedia](https://en.wikipedia.org/wiki/Category:Articles_with_dead_external_links)
 - [Link rot on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Link_rot)
 - [@FeryKaszoni: Link building plan for every budget](https://twitter.com/FeryKaszoni/status/1718893154743529799)
