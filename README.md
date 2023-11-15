@@ -357,6 +357,9 @@ A curated list of backlink, social signal opportunities, social media marketing,
 # Writing Ideas
 - [Here are 7 storytelling tricks to hook your reader](https://twitter.com/writes_eve/status/1667939987650691072)
 
+# Advertising
+- [Advertise Your Content With Blaze](https://wordpress.com/advertising/)
+
 # See Also
 - [Google Search Console: How Accurate is the Average Position Metric?](https://www.searchenginejournal.com/google-search-console-how-accurate-is-the-average-position-metric/403368/) -- "We learn from Mueller that the average position metric is based on real data. It’s a reliable measurement, even if it doesn’t always match up with what site owners see when they check their own ranking positions."
 - [Controversial: Should I disable the indexing of tags in Wordpress?](https://moz.com/community/q/topic/68981/should-i-disable-the-indexing-of-tags-in-wordpress/)
