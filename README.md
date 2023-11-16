@@ -301,6 +301,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Nick Jordan](https://www.linkedin.com/in/nickfromseattle/)
 
 # SEO Threads on Twitter
+- [@bloggersarvesh: This SEO hack lets you STEAL 35% more Google clicks](https://twitter.com/bloggersarvesh/status/1725029911948316780) -- see 4/5 and 5/5 on featured snippets, in particular.
 - [@adcrookes: SEO Blog Outline Example](https://twitter.com/adcrookes/status/1722041565785301243)
 - [@Charles_SEO: Advanced SEO Techniques That Aren't Just Meaningless Industry Jargon, And Actually Mean or Do Something](https://twitter.com/Charles_SEO/status/1717866197696524613)
 - [@thepatwalls How Pat Walls built StarterStory.](https://twitter.com/thepatwalls/status/1716854579781144617)
