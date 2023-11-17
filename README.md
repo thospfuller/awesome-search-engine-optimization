@@ -20,6 +20,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
 - [@illyism: I got 2400 backlinks from 170 domains in 1 week](https://twitter.com/illyism/status/1725092535796642166) possibly important but requires further investigation.
+- [GoDaddy Auctions](https://auctions.godaddy.com/)
 - [@SearchForRyan: Five things you HAVE to do to build internal links correctly](https://twitter.com/SearchForRyan/status/1722524766139990467)
 - [Articles with dead external links on Wikipedia](https://en.wikipedia.org/wiki/Category:Articles_with_dead_external_links)
 - [Link rot on Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Link_rot)
