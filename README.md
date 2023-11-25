@@ -19,6 +19,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Long-tail Keywords: What They Are and How to Get Search Traffic From Them](https://ahrefs.com/blog/long-tail-keywords/)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
+- [@ConnorShowler: Link Tree landing pages](https://twitter.com/ConnorShowler/status/1728252631154319609) Not confirmed however if everyone is doing this the backlink is probably not worth much, if anything at all. We can look at this from a different angle though and that is how many backlinks a site like [Link Tree](https://linktr.ee/) has and, as of 25.Nov.2023, this is 162M from 551K referring websites as per [ahrefs website authority checker](https://ahrefs.com/website-authority-checker).
 - [@illyism: I got 2400 backlinks from 170 domains in 1 week](https://twitter.com/illyism/status/1725092535796642166) Possibly gray hat SEO so I'm not sure about this one and requires further investigation.
 - [GoDaddy Auctions](https://auctions.godaddy.com/)
 - [@SearchForRyan: Five things you HAVE to do to build internal links correctly](https://twitter.com/SearchForRyan/status/1722524766139990467)
