@@ -184,6 +184,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Localo (previously SurferLocal)](https://localo.com/) -- Localo is an AI-powered local SEO tool for optimizing Google Business Profiles, boosting local visibility, reaching new customers, and monitoring.
 
 # Local SEO
+- [brightlocal.com: Local SEO Ranking Factors 2023](https://www.brightlocal.com/learn/local-seo/introduction-to-local-seo/ranking-factors/)
 - [Local SEO: A Simple (But Complete) Guide](https://ahrefs.com/blog/local-seo/) See quote re Places "there will be an option to import data from Google My Business."
 - [How To Dominate The Google Snack Pack & Local SEO](https://youtu.be/ZeTXEwt6nRo)
 
