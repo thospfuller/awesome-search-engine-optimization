@@ -160,6 +160,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [BuiltWith](https://builtwith.com/) -- Find out what websites are built with.
 - [httpstatus.io is a popular bulk HTTP status checker, redirect checker and header checker.](https://httpstatus.io/)
 - [Local SERP Checker: Check Google SERPs for any keyword. View localized search results for any country, city or ZIP code on Google and Google Maps.](https://www.brightlocal.com/local-search-results-checker/)
+- [Prerender](https://prerender.io/) – Prerender serves 100% cached versions of your web pages to search engine bots that have problems executing JavaScript, optimizing your [crawl budget](https://prerender.io/resources/free-downloads/white-papers/crawl-budget-guide/).
 
 # SEO Tools
 - [SERP Preview: Preview how your page could look in search results.](https://seotoolbelt.co/tools/serp-preview/)
