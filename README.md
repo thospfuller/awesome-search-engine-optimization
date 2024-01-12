@@ -134,6 +134,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 # Technical Search Engine Optimization (Technical SEO) Articles and Videos
 - [Why is Technical SEO Important?](https://thospfuller.com/2023/01/25/why-is-technical-seo-important/) -- "Learn about the benefits that Technical SEO can deliver to your business website or digital marketing campaign."
 - [Mastering SEO for Developers](https://www.git-tower.com/blog/seo-for-developers/)
+- [How to Find and Eliminate Render-Blocking Resources Affecting Your Core Web Vitals](https://prerender.io/blog/how-to-find-and-eliminate-render-blocking-resources/) -- Explore what render-blocking resources are, why you should care about them.
 
 # Technical Search Engine Optimization (Technical SEO) Testing Tools
 - [WebPagetest.org](https://www.webpagetest.org/) -- see also [WPO Foundation on GitHub](https://github.com/WPO-Foundation)
