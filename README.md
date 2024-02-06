@@ -306,6 +306,12 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Gordana Sretenovic](https://www.linkedin.com/in/gordanasretenovic923/)
 - [Nick Jordan](https://www.linkedin.com/in/nickfromseattle/)
 
+# SEO Channels on YouTube
+- [SEMrush](https://www.youtube.com/@semrush)
+- [Ahrefs](https://www.youtube.com/@AhrefsCom)
+- [Jacky Chou from Indexsy](https://www.youtube.com/@indexsy)
+- [Brian Dean](https://www.youtube.com/@BrianDean)
+
 # SEO Threads on Twitter
 - [@DarrenShaw: hourly ranking data](https://twitter.com/DarrenShaw_/status/1735036555063124364) which includes some interesting findings.
 - [@bloggersarvesh: This SEO hack lets you STEAL 35% more Google clicks](https://twitter.com/bloggersarvesh/status/1725029911948316780) see 4/5 and 5/5 on featured snippets, in particular.
