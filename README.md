@@ -309,6 +309,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 # SEO Channels on YouTube
 - [SEMrush](https://www.youtube.com/@semrush)
 - [Ahrefs](https://www.youtube.com/@AhrefsCom)
+- [Matt Diggity](https://www.youtube.com/@MattDiggity)
 - [Jacky Chou from Indexsy](https://www.youtube.com/@indexsy)
 - [Brian Dean](https://www.youtube.com/@BrianDean)
 
