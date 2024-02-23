@@ -82,6 +82,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
     - [Better Programming](https://medium.com/better-programming) has ~ 168k followers.
     - [WANTED: Other publications here]
   * [DZone.com](https://dzone.com/) has ~1mm+ subscribers (TBC)
+  * [A List Apart](https://alistapart.com/) allows follow backlinks.
   * [dev.to](https://dev.to/)
   * [reddit.com](https://www.reddit.com/)
   * [theserverside.com](https://www.theserverside.com/)
