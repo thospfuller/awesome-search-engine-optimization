@@ -377,6 +377,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # Advertising
 - [Advertise Your Content With Blaze](https://wordpress.com/advertising/)
+- [What does it mean if I don't get any conversions (sales) from the landing page?](https://twitter.com/Ldnbox/status/1784501809802825744) -- this is specific to Facebook ads.
 
 # See Also
 - [Google Search Console: How Accurate is the Average Position Metric?](https://www.searchenginejournal.com/google-search-console-how-accurate-is-the-average-position-metric/403368/) -- "We learn from Mueller that the average position metric is based on real data. It’s a reliable measurement, even if it doesn’t always match up with what site owners see when they check their own ranking positions."
