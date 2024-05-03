@@ -19,6 +19,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Long-tail Keywords: What They Are and How to Get Search Traffic From Them](https://ahrefs.com/blog/long-tail-keywords/)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
+- [freeCodeCamp.org](https://www.freecodecamp.org/) includes a follow backlink in the profile settings -- if you're developing content around software development consider checking this website out.
 - [23 Million Internal Links – SEO Case Study](https://zyppy.com/seo/internal-links/seo-study/)
 - [@ConnorShowler: Sneaky Backlink #49: ](https://twitter.com/ConnorShowler/status/1775722543179018451) from [HashNode](https://hashnode.com/) Software developers who manage their own blogs may benefit from earning a backlink from HashNode (HN) since it should be contextually relevant; HN may also serve as an excellent platform for cross-posting content (requires further investigation).
 - [@ConnorShowler: Build backlinks with Evernote.](https://twitter.com/ConnorShowler/status/1734389868778738175) I've only looked into this idea breifly however so far it makes sense and may be a good idea too but that's TBC. Evernote is not free however considering what other solutions in this space cost it could be a very attractive option. 
