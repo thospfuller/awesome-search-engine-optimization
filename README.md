@@ -17,6 +17,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Why Does Your Search Traffic Suck? The 7 Most Likely Reasons - Moz](https://moz.com/blog/why-does-your-search-traffic-suck-the-6-most-likely-reasons)
 - [Holy Grail SEO: High Volume, Low Competition Keywords](https://www.searchenginejournal.com/keyword-competition/313815/) -- "Instead of targeting keywords or topics that have high volume, we need to target keywords and topics that we actually have a chance to rank for, making the best use of our time and SEO efforts."
 - [Long-tail Keywords: What They Are and How to Get Search Traffic From Them](https://ahrefs.com/blog/long-tail-keywords/)
+- [Ultimate SEO Guide for Startups](https://getspexia.com/blog/seo-for-startups) (18 chapters)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
 - [freeCodeCamp.org](https://www.freecodecamp.org/) includes a follow backlink in the profile settings -- if you're developing content around software development consider checking this website out.
@@ -182,7 +183,6 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [MonsterInsights.com Headline Analyzer tool enables you to write irresistible SEO headlines that drive traffic, shares, and rank better in search results.](https://www.monsterinsights.com/headline-analyzer/)
 - [SiteLiner: Siteliner is a free service that lets you explore your website, revealing key issues that affect your site's quality and search engine rankings:](https://www.siteliner.com/)
 - [Simple ML for Sheets](https://workspace.google.com/marketplace/app/simple_ml_for_sheets/) -- "With Simple ML for Sheets everyone can use Machine Learning in Google Sheets without knowing ML, without coding, and without sharing data with third parties."
-- [Spexia](https://getspexia.com) -- All in one tool to create & optimize informational content (specialized on ECom shops).
 
 # On-Page SEO Tools
 - [Moz.com SEO Learning Center -> On-Site SEO -> Title Tag -> Title Tag Preview Tool](https://moz.com/learn/seo/title-tag)
