@@ -20,6 +20,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Ultimate SEO Guide for Startups](https://getspexia.com/blog/seo-for-startups) (18 chapters)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
+- [ITNEXT](https://itnext.io/) and see also [Write for ITNEXT](https://itnext.io/write-for-itnext-4dea1fd3adf)
 - [freeCodeCamp.org](https://www.freecodecamp.org/) includes a follow backlink in the profile settings -- if you're developing content around software development consider checking this website out.
 - [23 Million Internal Links – SEO Case Study](https://zyppy.com/seo/internal-links/seo-study/)
 - [@ConnorShowler: Sneaky Backlink #49: ](https://twitter.com/ConnorShowler/status/1775722543179018451) from [HashNode](https://hashnode.com/) Software developers who manage their own blogs may benefit from earning a backlink from HashNode (HN) since it should be contextually relevant; HN may also serve as an excellent platform for cross-posting content (requires further investigation).
