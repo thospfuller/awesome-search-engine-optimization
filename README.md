@@ -20,6 +20,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Ultimate SEO Guide for Startups](https://getspexia.com/blog/seo-for-startups) (18 chapters)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
+- [How to Build SEO Backlinks with Google Search Data](https://www.linkedin.com/feed/update/urn:li:activity:7193927301238046721/) by [Connor Gillivan](https://www.linkedin.com/in/connorgillivan/) on LinkedIn.
 - [ITNEXT](https://itnext.io/) and see also [Write for ITNEXT](https://itnext.io/write-for-itnext-4dea1fd3adf)
 - [freeCodeCamp.org](https://www.freecodecamp.org/) includes a follow backlink in the profile settings -- if you're developing content around software development consider checking this website out.
 - [23 Million Internal Links – SEO Case Study](https://zyppy.com/seo/internal-links/seo-study/)
