@@ -131,6 +131,9 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Show up in Google News](https://support.google.com/news/publisher-center/answer/9607025?hl=en)
 - [Bing PubHub](https://www.bing.com/webmasters/pubhub) -- Note that "[b]oth news and non-news supported!"; see also [Bing’s New PubHub Offers Millions Of New Site Visitors](https://www.searchenginejournal.com/bings-new-pubhub-offers-millions-of-new-site-visitors/437067/).
 
+# Podcasts
+- [Dev.to Podcasts](https://dev.to/pod)
+
 # SEO Newsletters
 - [SEOFOMO](https://seofomo.co/)
 - [WTF is SEO?](https://www.seoforjournalism.com/)
