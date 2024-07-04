@@ -194,6 +194,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [MonsterInsights.com Headline Analyzer tool enables you to write irresistible SEO headlines that drive traffic, shares, and rank better in search results.](https://www.monsterinsights.com/headline-analyzer/)
 - [SiteLiner: Siteliner is a free service that lets you explore your website, revealing key issues that affect your site's quality and search engine rankings:](https://www.siteliner.com/)
 - [Simple ML for Sheets](https://workspace.google.com/marketplace/app/simple_ml_for_sheets/) -- "With Simple ML for Sheets everyone can use Machine Learning in Google Sheets without knowing ML, without coding, and without sharing data with third parties."
+- [PressProxy](https://pressproxy.io/) - No-code tool to serve blog.domain.tld on domain.tld/blog using Cloudflare Workers. 
 
 # On-Page SEO Tools
 - [Moz.com SEO Learning Center -> On-Site SEO -> Title Tag -> Title Tag Preview Tool](https://moz.com/learn/seo/title-tag)
