@@ -22,6 +22,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Holy Grail SEO: High Volume, Low Competition Keywords](https://www.searchenginejournal.com/keyword-competition/313815/) -- "Instead of targeting keywords or topics that have high volume, we need to target keywords and topics that we actually have a chance to rank for, making the best use of our time and SEO efforts."
 - [Long-tail Keywords: What They Are and How to Get Search Traffic From Them](https://ahrefs.com/blog/long-tail-keywords/)
 - [Ultimate SEO Guide for Startups](https://getspexia.com/blog/seo-for-startups) (18 chapters)
+- [Structured data markup that Google Search supports](https://developers.google.com/search/docs/appearance/structured-data/search-gallery)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
 - [Leigh McKenzie on LinkedIn : Every marketer wants more backlinks. But, you’ve got to earn them. Nine strategies used at Backlinko.](https://www.linkedin.com/posts/lmckenzie16_9-top-strategies-to-get-high-quality-backlinks-activity-7210986982707990528-VmIt)
