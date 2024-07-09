@@ -10,6 +10,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 👍 If you have an idea not included here, pull requests are welcomed! 👍
 
 # General Search Engine Optimization (SEO) Articles
+- [Learn how to create Pillar Pages](https://www.linkedin.com/posts/lmckenzie16_how-to-create-a-pillar-page-activity-7216404846399102977-G0-F)
 - [Search Engine Land: HUGE Google Search document leak reveals inner workings of ranking algorithm](https://searchengineland.com/google-search-document-leak-ranking-442617) see also [Slashdot: Huge Google Search Document Leak Reveals Inner Workings of Ranking Algorithm](https://tech.slashdot.org/story/24/05/28/2236255/huge-google-search-document-leak-reveals-inner-workings-of-ranking-algorithm) and see also [@hridoyreh: 13 things found](https://x.com/hridoyreh/status/1795394077510517217)
 - [@hridoyreh: 10 best SEO Case Studies.](https://twitter.com/hridoyreh/status/1660898339414765568)
 - [John Mueller Of Google: SEO Lives & Dies With Consistency](https://www.seroundtable.com/google-seo-lives-dies-with-consistency-31319.html) "In 2015, John Mueller said this at SMX conference. He said his top SEO advice is be consistent. He reiterated it again in 2019 and 2018 and numerous times before and after this."
