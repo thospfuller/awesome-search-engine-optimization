@@ -5,6 +5,8 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 🤔 Do you need help with SEO? Visit [my website](https://thospfuller.com/) for more information and to schedule a meeting with me. 🔍
 
+🚀 Check out the [My Content Engineering Specialist GPT](https://github.com/thospfuller/my-content-engineering-specialist/) project if you use [ChatGPT](https://chatgpt.com/) -- this is [available as a GPT](https://chatgpt.com/g/g-SA2LB9tLz-my-content-engineering-specialist).
+
 ⭐ If you find this site to be useful, please star and/or watch it. ⭐
 
 👍 If you have an idea not included here, pull requests are welcomed! 👍
