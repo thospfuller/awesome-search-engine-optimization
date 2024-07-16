@@ -131,12 +131,23 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # Guest Posting, Writing, Blogging, Syndication Ideas
 - [The Ultimate Guide to Guest Posting in 2021](https://www.quicksprout.com/guest-posting-guide/)
-- [Google Podcasts](https://podcasts.google.com/)
 - [Show up in Google News](https://support.google.com/news/publisher-center/answer/9607025?hl=en)
 - [Bing PubHub](https://www.bing.com/webmasters/pubhub) -- Note that "[b]oth news and non-news supported!"; see also [Bing’s New PubHub Offers Millions Of New Site Visitors](https://www.searchenginejournal.com/bings-new-pubhub-offers-millions-of-new-site-visitors/437067/).
 
 # Podcasts
 - [Dev.to Podcasts](https://dev.to/pod)
+- [Google Podcasts](https://podcasts.google.com/)
+- [Loren Baker](https://www.linkedin.com/in/lorenbaker/) of The Search Engine Journal Show
+- [Crystal Carter](https://www.linkedin.com/in/crystalontheweb/) of SERP's UP
+- [Jack Chambers-Ward](https://www.linkedin.com/in/jlwchambers/) of Search with Candour
+- [Aleyda Solís](https://www.linkedin.com/in/aleyda/) of Crawling Mondays
+- [Mordy Oberstein](https://www.linkedin.com/in/mordyoberstein/) of The SEO Rant
+- [Michael Costin](https://www.linkedin.com/in/digitalmarketingsydney/) of The SEO Show
+- [Sarah McDowell](https://www.linkedin.com/in/sarahmcduk/) of The SEO Mindset
+- [Nate Matherson](https://www.linkedin.com/in/natematherson/) of Optimize
+- [Erin Sparks](https://www.linkedin.com/in/erinsparks/) of EDGE of the Web
+- [Vince Nero](https://www.linkedin.com/in/vinnero/) of The BuzzStream Podcast
+- [Gael Breton](https://www.linkedin.com/in/gael-breton-78305118/) of The Authority Hacker Podcast
 
 # SEO Newsletters
 - [SEOFOMO](https://seofomo.co/)
