@@ -26,7 +26,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Structured data markup that Google Search supports](https://developers.google.com/search/docs/appearance/structured-data/search-gallery)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
-- [Codementor: Write new and import existing posts.](https://www.codementor.io/write)
+- [Codementor: Write new and import existing posts.](https://www.codementor.io/write) Links added to articles posted on CodeMentor are nofollow.
 - [Code Project](https://www.codeproject.com/info/Submit.aspx) Allows cross-posting articles.
 - [SitePoint](https://www.sitepoint.com/write-for-us/)
 - [Leigh McKenzie on LinkedIn : Every marketer wants more backlinks. But, you’ve got to earn them. Nine strategies used at Backlinko.](https://www.linkedin.com/posts/lmckenzie16_9-top-strategies-to-get-high-quality-backlinks-activity-7210986982707990528-VmIt)
