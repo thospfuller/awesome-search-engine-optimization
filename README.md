@@ -134,6 +134,9 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - In the "About" section of a project on GitHub you can add a link to your website or to the project website if it's hosted elsewhere -- see also [How do I get a dofollow backlink from GitHub?](https://www.quora.com/How-do-I-get-a-dofollow-backlink-from-GitHub).
 - [BuiltIn](https://builtin.com/) -- "Built In is a national community united around a shared passion for tech, offering content and career opportunities, whether you want to work at home or in office." -- see, for example, [companies built in Washington, DC](https://builtin.com/washington-dc).
 
+# B2B / B2C / Money-related Articles
+- [Sam Dunning on LinkedIn: I've outranked Cognism, Semrush & Webflow as a 6mnth old company using my BLOW OUT THE WATER SEO strategy](https://www.linkedin.com/posts/samdunning_ive-outranked-cognism-semrush-webflow-activity-7234185459415875584-rMt8)
+
 # Guest Posting, Writing, Blogging, Syndication Ideas
 - [The Ultimate Guide to Guest Posting in 2021](https://www.quicksprout.com/guest-posting-guide/)
 - [Show up in Google News](https://support.google.com/news/publisher-center/answer/9607025?hl=en)
