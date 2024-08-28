@@ -27,6 +27,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Structured data markup that Google Search supports](https://developers.google.com/search/docs/appearance/structured-data/search-gallery)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
+- [Techopedia: Write for Techopedia](https://www.techopedia.com/about/contributors)
 - [Codementor: Write new and import existing posts.](https://www.codementor.io/write) Links added to articles posted on CodeMentor are nofollow.
 - [Code Project](https://www.codeproject.com/info/Submit.aspx) Allows cross-posting articles.
 - [SitePoint](https://www.sitepoint.com/write-for-us/)
