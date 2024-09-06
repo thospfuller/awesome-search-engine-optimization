@@ -27,7 +27,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Structured data markup that Google Search supports](https://developers.google.com/search/docs/appearance/structured-data/search-gallery)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
-- [BuiltIn](https://builtin.com/) -- "Built In is a national community united around a shared passion for tech, offering content and career opportunities, whether you want to work at home or in office." -- see, for example, [companies built in Washington, DC](https://builtin.com/washington-dc). The BuiltIn Expert Contributor Network allows for article submissions by experts and boasts 3mm+ readers. BuiltIn author profiles allow for a follow backlink to their website.
+- [BuiltIn](https://builtin.com/) -- "Built In is a national community united around a shared passion for tech, offering content and career opportunities, whether you want to work at home or in office." -- see, for example, [companies built in Washington, DC](https://builtin.com/washington-dc). The [BuiltIn Expert Contributor Network](https://builtin.com/expert-contributors) allows for article submissions by experts and boasts 3mm+ readers. BuiltIn author profiles allow for a follow backlink to their website.
 - [Techopedia: Write for Techopedia](https://www.techopedia.com/about/contributors)
 - [Codementor: Write new and import existing posts.](https://www.codementor.io/write) Links added to articles posted on CodeMentor are nofollow.
 - [Code Project](https://www.codeproject.com/info/Submit.aspx) Allows cross-posting articles.
