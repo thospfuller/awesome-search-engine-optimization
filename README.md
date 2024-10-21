@@ -169,6 +169,9 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Niche Pursuits](https://www.nichepursuits.com/join-newsletter/)
 - [SEO Jobs](https://www.seojobs.com/)
 
+# Marketing Ideas
+- [@boringmarketer: 10 sentences that will 10x your organic growth](https://x.com/boringmarketer/status/1848443423516471796)
+
 # SEO Pricing Articles and Resources
 - [How Much Does SEO Cost in 2024?](https://www.siegemedia.com/seo/pricing)
 
