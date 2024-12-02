@@ -394,6 +394,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [@harveymeale: A good 90% of my niche site income can be attributed to roundup articles (”best x for y”).](https://twitter.com/harveymeale/status/1678588189454499840)
 
 # SEO Case Studies
+- [The SEO Case Studies page on ThosPFuller.com](https://thospfuller.com/2024/11/27/seo-case-studies/)
 - [@IvanPlanic: Niche site case study](https://twitter.com/IvanPlanic/status/1678724546474508289)
 
 # Artificial Intelligence (AI) / ChatGPT Prompts and SEO
