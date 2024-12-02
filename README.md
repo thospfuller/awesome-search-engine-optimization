@@ -12,6 +12,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 👍 If you have an idea not included here, pull requests are welcomed! 👍
 
 # General Search Engine Optimization (SEO) Articles
+- [Ahrefs: 124 SEO Statistics for 2024](https://ahrefs.com/blog/seo-statistics/)
 - [Google announced that Search Console only reports on 35% of your website's performance data](https://x.com/mikeginleyseo/status/1823396936939909197)
 - [How Google handles JavaScript throughout the indexing process](https://vercel.com/blog/how-google-handles-javascript-throughout-the-indexing-process)
 - [Learn how to create Pillar Pages](https://www.linkedin.com/posts/lmckenzie16_how-to-create-a-pillar-page-activity-7216404846399102977-G0-F)
