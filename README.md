@@ -415,6 +415,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # SEO Communities
 - [BigSEO Slack Community Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfRAnvSg83SQD8v6zYn69WPw_1SJXdPzr4YvT6jVs1KUH0zwA/viewform)
+- [The SEO Community](https://theseocommunity.com/) and see also [The SEO Community on Slack](https://theseocommunity.slack.com/)
 
 # SEO-Related Websites
 - [Search Engine Roundtable](https://www.seroundtable.com/)
