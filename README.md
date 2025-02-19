@@ -9,7 +9,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 ⭐ If you find this site to be useful, please star and/or watch it. ⭐
 
-👍 If you have an idea not included here, pull requests are welcomed! 👍
+👍 If you have an idea not included here, pull requests are welcomed! (NOTE: PRs will be accepted for educational content only) 👍
 
 # General Search Engine Optimization (SEO) Articles
 - [Ahrefs: 124 SEO Statistics for 2024](https://ahrefs.com/blog/seo-statistics/)
