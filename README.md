@@ -28,6 +28,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Structured data markup that Google Search supports](https://developers.google.com/search/docs/appearance/structured-data/search-gallery)
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
+- [@nathangotch: 10 Years of Link Building Advice in 10 Minutes](https://x.com/nathangotch/status/1899870946242027820)
 - [SEMrush internal linking courses](https://www.semrush.com/academy/courses/boost-ecommerce-seo-with-internal-linking/) -- Page includes several courses covering strategies for enhancing e-commerce SEO through effective internal linking techniques.
 - [BuiltIn](https://builtin.com/) -- "Built In is a national community united around a shared passion for tech, offering content and career opportunities, whether you want to work at home or in office." -- see, for example, [companies built in Washington, DC](https://builtin.com/washington-dc). The [BuiltIn Expert Contributor Network](https://builtin.com/expert-contributors) allows for article submissions by experts and boasts 3mm+ readers. BuiltIn author profiles allow for a follow backlink to their website.
 - [Techopedia: Write for Techopedia](https://www.techopedia.com/about/contributors)
