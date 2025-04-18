@@ -53,6 +53,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [@FeryKaszoni: Link building plan for every budget](https://twitter.com/FeryKaszoni/status/1718893154743529799)
 - [Unveiling the Dark Art of Parasite SEO: Risks and Rewards](https://www.linkedin.com/pulse/unveiling-dark-art-parasite-seo-risks-rewards-azam-javed/)
 - [featured.com / previously terkel](https://featured.com/)
+- [Journo.com: Connect with sources and get quotes, data and insights from verified experts.](https://journo.com/)
 - [SourceBottle crowdsources expert sources for journalists, bloggers, writers and reporters in the US, the UK and Ireland, Canada, Australia and New Zealand.](https://www.sourcebottle.com/)
 - [Help A B2B Writer](https://helpab2bwriter.com/)
 - [HARO: Help A Reporter Out](https://www.helpareporter.com/)
