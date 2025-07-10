@@ -26,6 +26,9 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Long-tail Keywords: What They Are and How to Get Search Traffic From Them](https://ahrefs.com/blog/long-tail-keywords/)
 - [Ultimate SEO Guide for Startups](https://getspexia.com/blog/seo-for-startups) (18 chapters)
 - [Structured data markup that Google Search supports](https://developers.google.com/search/docs/appearance/structured-data/search-gallery)
+- [Future Proof Your Marketing in 2025 with AI SEO Agents](https://blog.serplux.com/future-proof-marketing-ai-seo-serplux-2025/)
+- 
+- 
 
 # Link Building Strategies, Internal Linking, and Backlinking Ideas
 - [Passive link building and the flywheel approach, Vince Nero on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7307831340584845312/)
