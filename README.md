@@ -214,6 +214,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [BuiltWith](https://builtwith.com/) -- Find out what websites are built with.
 - [httpstatus.io is a popular bulk HTTP status checker, redirect checker and header checker.](https://httpstatus.io/)
 - [Local SERP Checker: Check Google SERPs for any keyword. View localized search results for any country, city or ZIP code on Google and Google Maps.](https://www.brightlocal.com/local-search-results-checker/)
+- [PageGuard: Free website health scanner — check SEO, ADA/WCAG accessibility, Core Web Vitals performance, and best practices in 30 seconds.](https://pageguard.org/) -- All-in-one technical SEO audit tool with structured data validation, canonical checks, and automated monitoring from $9/mo.
 
 # SEO Tools
 - [SERP Preview: Preview how your page could look in search results.](https://seotoolbelt.co/tools/serp-preview/)
