@@ -216,6 +216,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Local SERP Checker: Check Google SERPs for any keyword. View localized search results for any country, city or ZIP code on Google and Google Maps.](https://www.brightlocal.com/local-search-results-checker/)
 
 # SEO Tools
+- [GEO Boost: AI Visibility & Agent Optimization Platform](https://geo-boost.makesall.cn) -- Check if AI search engines (ChatGPT, Gemini, Perplexity) can find your brand with GEO/AEO scoring, structured data audit, and actionable recommendations. Open source.
 - [SERP Preview: Preview how your page could look in search results.](https://seotoolbelt.co/tools/serp-preview/)
 - [CookUp.ai: Discover AI apps for every usecase and 10X your creativity & productivity](https://cookup.ai/apps/?q=SEO)
 - [Similarweb: Effortlessly Analyze Your Competitive Landscape](https://www.similarweb.com/)
