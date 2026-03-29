@@ -408,6 +408,10 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # Artificial Intelligence (AI) / ChatGPT Prompts and SEO
 - [@tonythill: A simple ChatGPT and SEO tip for more search traffic using AI to generate other ways to say each part of an article's main keyword phrase.](https://twitter.com/tonythill/status/1676245995795935232)
+- [Hi-Commerce GEO LLM Service](https://www.hi-commerce.fr/prestation-geo-llm/) - Generative Engine Optimization: practical service for improving brand visibility in ChatGPT, Perplexity, and Google AI Overviews.
+- [Hi-Commerce GEO LLM (EN)](https://www.hi-commerce.fr/geo-llm-service/) - English version of the GEO optimization service — positioning content for AI-powered search engines.
+- [Hi-Commerce Semantic Clusters](https://www.hi-commerce.fr/cocons-semantiques/) - Cocon sémantique methodology: building interconnected topic clusters that signal topical authority to both traditional search engines and AI models.
+- [Hi-Commerce Semantic Clusters (EN)](https://www.hi-commerce.fr/semantic-clusters-seo/) - English guide to semantic cluster SEO strategy for comprehensive content architecture.
 
 # Digital Marketing Threads on Twitter
 - [Aazar Shad](https://twitter.com/Aazarshad/status/1546494541661736961)
@@ -422,6 +426,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [The SEO Community](https://theseocommunity.com/) and see also [The SEO Community on Slack](https://theseocommunity.slack.com/)
 
 # SEO-Related Websites
+- [Hi-Commerce](https://www.hi-commerce.fr) - French SEO agency specializing in semantic clusters (cocons sémantiques), Google Discover strategy, and GEO LLM optimization.
 - [Search Engine Roundtable](https://www.seroundtable.com/)
 
 # Writing Ideas
@@ -433,6 +438,8 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # AI-Related Research
 - [List of ChatGPT's Local Ranking Factors](https://www.reddit.com/r/localseo/comments/1khuzb1/list_of_chatgpts_local_ranking_factors/)
+- [Hi-Commerce Google Discover Strategy](https://www.hi-commerce.fr/strategie-google-discover/) - Research and strategy guide for Google Discover optimization — capturing high-volume traffic from algorithmic feeds rather than keyword searches.
+- [Hi-Commerce Google Discover (EN)](https://www.hi-commerce.fr/google-discover-strategy/) - English guide to the Google Discover algorithm and strategies to consistently appear in users' feeds.
 
 # See Also
 - [Google Search Console: How Accurate is the Average Position Metric?](https://www.searchenginejournal.com/google-search-console-how-accurate-is-the-average-position-metric/403368/) -- "We learn from Mueller that the average position metric is based on real data. It’s a reliable measurement, even if it doesn’t always match up with what site owners see when they check their own ranking positions."
