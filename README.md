@@ -422,6 +422,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [The SEO Community](https://theseocommunity.com/) and see also [The SEO Community on Slack](https://theseocommunity.slack.com/)
 
 # SEO-Related Websites
+- [Hi-Commerce](https://www.hi-commerce.fr) - French SEO agency specializing in semantic clusters (cocons sémantiques), Google Discover strategy, and GEO LLM optimization.
 - [Search Engine Roundtable](https://www.seroundtable.com/)
 
 # Writing Ideas
