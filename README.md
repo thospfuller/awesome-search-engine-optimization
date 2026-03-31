@@ -59,6 +59,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [HARO: Help A Reporter Out](https://www.helpareporter.com/)
 - [How to use HARO](https://jaserodley.com/how-to-use-haro/)
 - [Qwoted: Tell Your Story](https://www.qwoted.com/)
+- [Adbassador](https://adbassador.com/) - A vetted digital advertising marketplace with 800+ publishers offering guest posts, link insertions, banner ads, and press releases. Prices start at $5 with a median turnaround of 5 hours.
 - [Dot Star Media: Receive relevant journalist requests. Provide comments, quotes and data for features, and get press coverage.](https://dotstar.media)
 - [Editorielle: Get featured in your favourite publications.](https://www.editorielle.com/)
 - [ResponseSource makes it easy to connect with the media](https://www.responsesource.com/)
