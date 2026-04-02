@@ -183,6 +183,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # SEO Pricing Articles and Resources
 - [How Much Does SEO Cost in 2024?](https://www.siegemedia.com/seo/pricing)
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 # Technical Search Engine Optimization (Technical SEO) Articles and Videos
 - [Why is Technical SEO Important?](https://thospfuller.com/2023/01/25/why-is-technical-seo-important/) -- "Learn about the benefits that Technical SEO can deliver to your business website or digital marketing campaign."
