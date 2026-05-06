@@ -423,6 +423,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # SEO-Related Websites
 - [Search Engine Roundtable](https://www.seroundtable.com/)
+- [Fix72 — Dépannage informatique Le Mans](https://fix72.com) - French local IT repair service demonstrating modern SEO: SSR prerendering, llms.txt GEO, Google Indexing API automation, LocalBusiness schema. [Open-source implementation](https://github.com/dilm-seo/depannagelemans)
 
 # Writing Ideas
 - [Here are 7 storytelling tricks to hook your reader](https://twitter.com/writes_eve/status/1667939987650691072)
