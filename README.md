@@ -252,6 +252,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 # Content Generation Tools
 - [ScaleNut.com](https://scalenut.com/) Scalenut gives you a simple and scalable way to produce content that serves your business goals.
 - [copy.ai](https://copy.ai) Experience the full power of an AI content generator that delivers premium results in seconds.
+- [CreatorSkills](https://creatorskills.co) Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 # Event Announcements
 - Moz Local has a publish button -- TBD regarding how effective this is at event announcements.
