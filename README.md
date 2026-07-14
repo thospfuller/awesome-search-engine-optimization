@@ -357,6 +357,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Brian Dean](https://www.linkedin.com/in/brianedean/)
 - [Gordana Sretenovic](https://www.linkedin.com/in/gordanasretenovic923/)
 - [Nick Jordan](https://www.linkedin.com/in/nickfromseattle/)
+- [Alexander Kropivnitski](https://www.linkedin.com/in/alexander-kropivnitski/)
 
 # SEO Channels on YouTube
 - [SEMrush](https://www.youtube.com/@semrush)
