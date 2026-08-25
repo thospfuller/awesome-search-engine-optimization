@@ -408,6 +408,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # Artificial Intelligence (AI) / ChatGPT Prompts and SEO
 - [@tonythill: A simple ChatGPT and SEO tip for more search traffic using AI to generate other ways to say each part of an article's main keyword phrase.](https://twitter.com/tonythill/status/1676245995795935232)
+- [AI Search Optimization (AEO/GEO): The Complete Guide](https://avocadoscore.io/guides/ai-search-optimization) -- The access / comprehension / trust pillars that determine whether ChatGPT, Claude, Perplexity and Google AI Overviews can find and cite a site.
 
 # Digital Marketing Threads on Twitter
 - [Aazar Shad](https://twitter.com/Aazarshad/status/1546494541661736961)
