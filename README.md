@@ -423,6 +423,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 
 # SEO-Related Websites
 - [Search Engine Roundtable](https://www.seroundtable.com/)
+-[Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides
 
 # Writing Ideas
 - [Here are 7 storytelling tricks to hook your reader](https://twitter.com/writes_eve/status/1667939987650691072)
