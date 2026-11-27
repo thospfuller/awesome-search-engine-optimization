@@ -177,6 +177,7 @@ A curated list of backlink, social signal opportunities, social media marketing,
 - [Search Engine Journal Newsletter](https://www.searchenginejournal.com/newsletter-sign-up/)
 - [Niche Pursuits](https://www.nichepursuits.com/join-newsletter/)
 - [SEO Jobs](https://www.seojobs.com/)
+- [geojobs.ai](https://geojobs.ai/) -- job board for GEO/SEO roles, the jobs behind AI search, with a weekly jobs email.
 
 # Marketing Ideas
 - [@boringmarketer: 10 sentences that will 10x your organic growth](https://x.com/boringmarketer/status/1848443423516471796)
